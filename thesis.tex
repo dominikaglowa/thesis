@@ -1,0 +1,125 @@
+\documentclass[12pt,a4paper]{report}
+
+\usepackage{subfigure,epsfig,amstext,floatfig,alltt,fancyhdr,setspace,amsmath}
+\usepackage{epstopdf}
+\usepackage{float}
+\usepackage{graphicx}
+\include{macros}
+\initfloatingfigs
+
+%%% helps to discourage hyphenation 10000 for no hyphens but dodgy line lengths%%%
+\hyphenpenalty=5000
+\tolerance=1000
+
+% sets all the margins to be the correct size for thesis
+
+%%%%%%% FINAL THESIS MARGINS  %%%%%%%%%
+\setlength{\oddsidemargin}{1.46cm}
+\setlength{\evensidemargin}{-0.04cm}
+\setlength{\textwidth}{14.5cm}
+\setlength{\topmargin}{-0.54cm}
+\setlength{\textheight}{21.9cm} 
+\renewcommand{\hoffset}{0cm}
+\renewcommand{\voffset}{0cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\setcounter{secnumdepth}{3}
+\setcounter{tocdepth}{3}
+\DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
+
+%% In the beginning ....
+\begin{document}
+%% First do introductory stuff - leave this as pagestyle empty until after
+%% the table of contents
+
+\include{title}
+%\ \newpage		% Newpage needed if doing double sided.
+
+%% Include abstract - use separate parskip for this and then set parskip for
+%% rest of thesis.
+%\pagestyle{plain}
+
+%-----------------------------------------------------------------------------
+
+\pagestyle{fancy}
+\fancyhead{} %clear all fields
+\renewcommand{\headheight}{28pt}
+\cfoot{}
+\fancyfoot[LE,RO]{\thepage}
+
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername \ \thechapter.\ #1}{}} 
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1} {}}
+
+\fancyhead[LE]{\small \slshape \leftmark}      % Chapter in the right on even pages
+\fancyhead[RO]{\small \slshape \rightmark}     % Section in the left on odd pages
+\renewcommand{\headrulewidth}{0.3pt}    % Width of head rule
+
+%-----------------------------------------------------------------------------
+
+
+\pagenumbering{roman}
+\setcounter{page}{1}
+
+\onehalfspacing
+
+\addcontentsline{toc}{chapter}{Abstract}
+\include{abstract}
+
+%\ \newpage		% Newpage needed if printing double sided.
+
+%\addcontentsline{toc}{chapter}{Declaration}
+%\include{declaration}
+
+%\ \newpage		% Newpage needed if printing double sided.
+
+\singlespacing
+
+%\ \newpage		% Newpage needed if printing double sided.
+
+%\addcontentsline{toc}{chapter}{Contents}
+%\tableofcontents
+
+%\ \newpage		% Newpage needed if printing double sided.
+%\ \newpage		% Newpage needed if printing double sided.
+
+%\addcontentsline{toc}{chapter}{List of figures}
+%\listoffigures
+
+%\ \newpage		% Newpage needed if printing double sided.
+
+%\addcontentsline{toc}{chapter}{List of tables}
+%\listoftables
+  
+%\ \newpage		% Newpage needed if printing double sided.
+%\ \newpage		% Newpage needed if printing double sided.
+
+\clearpage % this command stops table page becoming page 1
+
+
+%% Now the body of the text - note that parskip has to be reset after the TOC
+
+\onehalfspacing
+\pagenumbering{arabic}
+
+\setcounter{page}{1}
+%% Add chapters here %%
+%\include{chapter1}
+%\include{chapter2}
+\include{chapter3}
+\include{chapter4}
+%\include{chapter4} etc....... named as the bit before the ".tex" in the folder
+
+
+\small{
+\singlespacing
+
+%\bibliographystyle{these} %optional
+%\bibliography{refs}
+
+
+}
+
+\end{document}
+
+
+
+

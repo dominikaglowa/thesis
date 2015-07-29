@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2011)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: thesis.aux
+A level-1 auxiliary file: title.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapter1.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+The style file: these.bst
+Database file #1: refs.bib
+Warning--I didn't find a database entry for "prop"
+Warning--I didn't find a database entry for "Proposa"
+Warning--to sort, need author or key in Proposal
+Warning--empty title in amsler
+Warning--empty title in brown
+Warning--empty title in carr
+Warning--empty title in devires
+Warning--empty title in dehn
+Warning--empty title in piek
+Warning--empty title in roca
+You've used 18 entries,
+            2419 wiz_defined-function locations,
+            649 strings with 6076 characters,
+and the built_in function-call counts, 6262 in all, are:
+= -- 635
+> -- 195
+< -- 10
++ -- 62
+- -- 60
+* -- 364
+:= -- 965
+add.period$ -- 45
+call.type$ -- 18
+change.case$ -- 88
+chr.to.int$ -- 18
+cite$ -- 27
+duplicate$ -- 341
+empty$ -- 483
+format.name$ -- 77
+if$ -- 1368
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 21
+newline$ -- 84
+num.names$ -- 34
+pop$ -- 136
+preamble$ -- 1
+purify$ -- 120
+quote$ -- 0
+skip$ -- 295
+stack$ -- 0
+substring$ -- 288
+swap$ -- 100
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 128
+warning$ -- 8
+while$ -- 48
+width$ -- 22
+write$ -- 210
+(There were 10 warnings)
