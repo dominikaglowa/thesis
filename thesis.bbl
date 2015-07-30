@@ -1,88 +1,114 @@
-\begin{thebibliography}{Abrahamyan~12}
+\begin{thebibliography}{J~C.~McGeorge~08}
 
-\bibitem[Abrahamyan~12]{prex}
-S.~Abrahamyan \& et~al.
-\newblock {\em Measurement of the Neutron Radius of $^{208}$Pb through Parity
-  Violation in Electron Scattering}.
-\newblock Phys. Rev. Lett. 108, page 112502, 2012.
+\bibitem[Albert~03]{jalbert}
+J.~Albert.
+\newblock {\em Test Measurements for the Crystal Ball Detector at MAMI, PhD
+  thesis}.
+\newblock PhD thesis, 2003.
 
-\bibitem[Amsler~08]{amsler}
-C.~Amsler \& et~al.
-\newblock Phys. Lett. B 667, page~1, 2008.
+\bibitem[Annand~08]{john}
+J.~R.~M. Annand.
+\newblock Data analysis within an acquroot framework.
+  nuclear.gla.ac.uk/~acqusys/doc/acquroot.11.08.pd.
+\newblock 2008.
 
-\bibitem[Anthony~91]{anthony}
-I.~Anthony.
-\newblock {\em Design of a tagged photon spectrometer for use with the Mainz
-  840MeV microtron}.
-\newblock Nuc. Inst. Meth A 301, pages 230--240, 1991.
-
-\bibitem[Barnes~95]{aether}
-Jonathan Barnes.
-\newblock The cambridge companion to aristotle.
-\newblock Cambridge University Press, 1995.
-
-\bibitem[Boyle~61]{element}
-Richard Boyle.
-\newblock The sceptical chymist.
-\newblock London, 1661.
-
-\bibitem[Brown~00]{babrown}
-B.~A. Brown.
-\newblock {\em Neutron Radii in Nuclei and the Neutron Equation of State}.
-\newblock Phys. Rev. Lett 85 25, 2000.
-
-\bibitem[Brown~09]{brown}
-A.~Brown \& et~al.
-\newblock Phys. Rev. C79, page 035501, 2009.
-
-\bibitem[Carriere~03]{carr}
-J.~Carriere \& et~al.
-\newblock Astrophys. J. 593, pages 463--471, 2003.
-
-\bibitem[de Vires~95]{devires}
-H.~de~Vires \& et~al.
-\newblock At. Nuc. Dat. Nuc. Dat. Tab. 60, pages 177--285, 1995.
+\bibitem[Brun~15]{root}
+R.~Brun.
+\newblock {\em Root manual root.cern.ch}, 2015.
 
 \bibitem[Dehn~11]{dehn}
 M.~Dehn \& et~al.
-\newblock Eur. Phys. J. Special Topics 198, page 19Ð47, 2011.
+\newblock Eur. Phys. J. Special Topics 198, page 19ï¿½47, 2011.
 
-\bibitem[Fattoyev~12]{fattoyev}
-F.~J. Fattoyev \& et~al.
-\newblock {\em Pure Neytron Matter Constraints on the Relativistic Mean-Field
-  and Skyrme-Hartree-Fock Models}.
-\newblock arXiv:1205.0857v1, 2012.
+\bibitem[et al.~82]{oreglia}
+M.~Oreglia et~al.
+\newblock Phys. Rev. D. 25, page~9, 1982.
 
-\bibitem[Furnstahl~02]{furnstahl}
-R.~J. Furnstahl.
-\newblock {\em Neutron Radii in Nuclei in mean-field models}.
-\newblock Nuc. Phys. A 706, pages 85--110, 2002.
+\bibitem[et al.~91]{audit}
+Audit et~al.
+\newblock Nuc. Inst. Meth. A301, pages 473--481, 1991.
 
-\bibitem[Haliday~04]{hali}
-Haliday, Resnick \& Walker.
-\newblock Fundamentals of physics.
-\newblock Wiley and sons, 2004.
+\bibitem[et al.~98]{gbruan}
+G.~Bruan et~al.
+\newblock {\em Tdc chip and readout driver developments for compass and lhc
+  experiments}.
+\newblock arXiv:hep-ex, 1998.
 
-\bibitem[Piekarewicz~06]{piek}
-J.~Piekarewicz \& S.~Pieper.
-\newblock Nucl. Phys. A 778, page~10, 2006.
+\bibitem[et al.~01]{starostin}
+A.~Starostin et~al.
+\newblock Phys.Rev.C 64, pages 55--205, 2001.
 
-\bibitem[Pro~09]{Proposal}
-{\em Proposal for an experiment: ÔNeutron skin evolution in isotopes of Tin and
-  Calcium from coherent pion photoproductionÕ}, 2009.
+\bibitem[et al.~09]{centelles}
+M.~Centelles et~al.
+\newblock Phys Rev Let. 102, pages 122--502, 2009.
 
-\bibitem[Roca-Maza~11]{roca}
-X.~Roca-Maza, M.~Centelles, X.~Vinas \& M.~Warda.
-\newblock Phys. Rev. Lett. 106, page 252501, 2011.
+\bibitem[et al.~11]{liewen}
+Lie-Wen~Chen et~al.
+\newblock Proceedings of the 13th national conference on nuclear structure in
+  china.
+\newblock 2011.
+
+\bibitem[Gesslerr~08]{gessler}
+T.~Gesslerr.
+\newblock Bachelor thesis.
+\newblock Universitaet, Giessen, 2008.
+
+\bibitem[Hall~96]{sjhall}
+S.J. Hall, G.J. Miller, R.~Beck \& P.~Jennewein.
+\newblock Nucl. Instrum. Methods A 368, page 698, 1996.
+
+\bibitem[J~C.~McGeorge~08]{mcgeorge}
+et~al. J~C.~McGeorge~J. D.~Kellie.
+\newblock Eur. Phys. J. A, 37, pages 129--137, 2008.
+
+\bibitem[Knoll~]{knoll}
+G.F. Knoll.
+\newblock Radiation detection and measurement.
+\newblock John Wiley and Sons.
+
+\bibitem[Krambrich~]{krambrich}
+D.~Krambrich.
+\newblock {\em University of Mainz, PhD thesis}.
+\newblock PhD thesis.
+
+\bibitem[Lemmer~07]{lemmer}
+B.~Lemmer.
+\newblock Diploma thesis.
+\newblock Universitaet, Giessen, 2007.
+
+\bibitem[Middleton~11]{duncan}
+D.~Middleton.
+\newblock Mainz a2 tagger calibrations a2 internal report., 2011.
+
+\bibitem[Novotny~91]{novotny}
+R.~Novotny.
+\newblock IEEE Trans. Nucl. Sci. 38, page~2, 1991.
+
+\bibitem[Roebig~91]{roebig}
+M.~E. Roebig.
+\newblock Diploma thesis.
+\newblock Universitaet Giessen, 1991.
+
+\bibitem[Schmitt~04]{lschmitt}
+L.~Schmitt.
+\newblock IEEE Trans.Nucl.Sci., pages 51:438--444, 2004.
 
 \bibitem[Tarbet~07]{claire}
 C.~M. Tarbet.
 \newblock Coherent $\pi^{0}$ photoprodution on nuclei.
 \newblock University of Edinburgh, 2007.
 
-\bibitem[Trzcinska~10]{trzcina}
-A.~Trzcinska.
-\newblock {\em Antiprotonic atoms as a tool to study the nuclear periphery}.
-\newblock A. Phys. Pol. B. 41, 2010.
+\bibitem[Unverzagt~04]{marc}
+M.~Unverzagt.
+\newblock Diploma thesis.
+\newblock University of Mainz, 2004.
+
+\bibitem[Unverzagt~10]{marcu}
+M.~Unverzagt.
+\newblock Nucl.Phys.Proc.Suppl. 198, pages 174--181, 2010.
+
+\bibitem[website~15]{a2mami}
+A2~MAMI website.
+\newblock {\em http://wwwa2.kph.uni-mainz.de}, 2015.
 
 \end{thebibliography}

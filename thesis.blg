@@ -1,63 +1,68 @@
-This is BibTeX, Version 0.99d (TeX Live 2011)
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: abstract.aux
-A level-1 auxiliary file: chapter1.aux
-A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
 The style file: these.bst
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "prop"
-Warning--I didn't find a database entry for "Proposa"
-Warning--to sort, need author or key in Proposal
-Warning--empty title in amsler
-Warning--empty title in brown
-Warning--empty title in carr
-Warning--empty title in devires
+Warning--empty school in jalbert
+Warning--empty publisher in john
 Warning--empty title in dehn
-Warning--empty title in piek
-Warning--empty title in roca
-You've used 18 entries,
+Warning--empty title in oreglia
+Warning--empty title in audit
+Warning--empty title in starostin
+Warning--empty title in centelles
+Warning--empty publisher in liewen
+Warning--empty title in sjhall
+Warning--empty title in mcgeorge
+Warning--empty year in knoll
+Warning--empty school in krambrich
+Warning--empty year in krambrich
+Warning--empty title in duncan
+Warning--empty title in novotny
+Warning--empty title in lschmitt
+Warning--empty title in marcu
+You've used 24 entries,
             2419 wiz_defined-function locations,
-            649 strings with 6076 characters,
-and the built_in function-call counts, 6262 in all, are:
-= -- 635
-> -- 195
+            655 strings with 5961 characters,
+and the built_in function-call counts, 7574 in all, are:
+= -- 752
+> -- 190
 < -- 10
-+ -- 62
-- -- 60
-* -- 364
-:= -- 965
-add.period$ -- 45
-call.type$ -- 18
-change.case$ -- 88
-chr.to.int$ -- 18
-cite$ -- 27
-duplicate$ -- 341
-empty$ -- 483
-format.name$ -- 77
-if$ -- 1368
++ -- 56
+- -- 56
+* -- 438
+:= -- 1190
+add.period$ -- 59
+call.type$ -- 24
+change.case$ -- 108
+chr.to.int$ -- 24
+cite$ -- 41
+duplicate$ -- 412
+empty$ -- 635
+format.name$ -- 80
+if$ -- 1626
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 21
-newline$ -- 84
-num.names$ -- 34
-pop$ -- 136
+missing$ -- 28
+newline$ -- 110
+num.names$ -- 48
+pop$ -- 191
 preamble$ -- 1
-purify$ -- 120
+purify$ -- 148
 quote$ -- 0
-skip$ -- 295
+skip$ -- 335
 stack$ -- 0
-substring$ -- 288
-swap$ -- 100
+substring$ -- 370
+swap$ -- 93
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 128
-warning$ -- 8
-while$ -- 48
-width$ -- 22
-write$ -- 210
-(There were 10 warnings)
+type$ -- 160
+warning$ -- 17
+while$ -- 64
+width$ -- 27
+write$ -- 270
+(There were 17 warnings)
