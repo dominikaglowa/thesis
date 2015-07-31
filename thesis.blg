@@ -5,16 +5,17 @@ A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: abstract.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
-The style file: these.bst
+The style file: plain.bst
 Database file #1: refs.bib
+Warning--I didn't find a database entry for "shall"
 Warning--empty school in jalbert
 Warning--empty publisher in john
 Warning--empty title in dehn
-Warning--empty title in oreglia
-Warning--empty title in audit
 Warning--empty title in starostin
-Warning--empty title in centelles
+Warning--empty title in audit
 Warning--empty publisher in liewen
+Warning--empty title in centelles
+Warning--empty title in oreglia
 Warning--empty title in sjhall
 Warning--empty title in mcgeorge
 Warning--empty year in knoll
@@ -25,44 +26,44 @@ Warning--empty title in novotny
 Warning--empty title in lschmitt
 Warning--empty title in marcu
 You've used 24 entries,
-            2419 wiz_defined-function locations,
-            655 strings with 5961 characters,
-and the built_in function-call counts, 7574 in all, are:
-= -- 752
+            2118 wiz_defined-function locations,
+            600 strings with 5538 characters,
+and the built_in function-call counts, 6505 in all, are:
+= -- 624
 > -- 190
 < -- 10
-+ -- 56
++ -- 80
 - -- 56
-* -- 438
-:= -- 1190
+* -- 328
+:= -- 1041
 add.period$ -- 59
 call.type$ -- 24
-change.case$ -- 108
-chr.to.int$ -- 24
+change.case$ -- 79
+chr.to.int$ -- 0
 cite$ -- 41
-duplicate$ -- 412
-empty$ -- 635
-format.name$ -- 80
-if$ -- 1626
-int.to.chr$ -- 1
-int.to.str$ -- 0
+duplicate$ -- 344
+empty$ -- 571
+format.name$ -- 56
+if$ -- 1433
+int.to.chr$ -- 0
+int.to.str$ -- 24
 missing$ -- 28
 newline$ -- 110
 num.names$ -- 48
-pop$ -- 191
+pop$ -- 174
 preamble$ -- 1
-purify$ -- 148
+purify$ -- 76
 quote$ -- 0
-skip$ -- 335
+skip$ -- 257
 stack$ -- 0
-substring$ -- 370
-swap$ -- 93
+substring$ -- 322
+swap$ -- 110
 text.length$ -- 10
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 160
+type$ -- 80
 warning$ -- 17
 while$ -- 64
-width$ -- 27
-write$ -- 270
-(There were 17 warnings)
+width$ -- 26
+write$ -- 222
+(There were 18 warnings)

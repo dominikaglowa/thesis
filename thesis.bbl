@@ -1,114 +1,114 @@
-\begin{thebibliography}{J~C.~McGeorge~08}
+\begin{thebibliography}{10}
 
-\bibitem[Albert~03]{jalbert}
+\bibitem{jalbert}
 J.~Albert.
 \newblock {\em Test Measurements for the Crystal Ball Detector at MAMI, PhD
   thesis}.
 \newblock PhD thesis, 2003.
 
-\bibitem[Annand~08]{john}
+\bibitem{john}
 J.~R.~M. Annand.
-\newblock Data analysis within an acquroot framework.
-  nuclear.gla.ac.uk/~acqusys/doc/acquroot.11.08.pd.
+\newblock {\em Data Analysis within an AcquRoot Framework.
+  nuclear.gla.ac.uk/~acqusys/doc/AcquRoot.11.08.pd}.
 \newblock 2008.
 
-\bibitem[Brun~15]{root}
+\bibitem{root}
 R.~Brun.
-\newblock {\em Root manual root.cern.ch}, 2015.
+\newblock Root manual root.cern.ch, 2015.
 
-\bibitem[Dehn~11]{dehn}
-M.~Dehn \& et~al.
-\newblock Eur. Phys. J. Special Topics 198, page 19�47, 2011.
+\bibitem{dehn}
+M.~Dehn and et~al.
+\newblock {\em Eur. Phys. J. Special Topics 198}, page 19�47, 2011.
 
-\bibitem[et al.~82]{oreglia}
-M.~Oreglia et~al.
-\newblock Phys. Rev. D. 25, page~9, 1982.
-
-\bibitem[et al.~91]{audit}
-Audit et~al.
-\newblock Nuc. Inst. Meth. A301, pages 473--481, 1991.
-
-\bibitem[et al.~98]{gbruan}
-G.~Bruan et~al.
-\newblock {\em Tdc chip and readout driver developments for compass and lhc
-  experiments}.
-\newblock arXiv:hep-ex, 1998.
-
-\bibitem[et al.~01]{starostin}
+\bibitem{starostin}
 A.~Starostin et~al.
-\newblock Phys.Rev.C 64, pages 55--205, 2001.
+\newblock {\em Phys.Rev.C 64}, pages 55--205, 2001.
 
-\bibitem[et al.~09]{centelles}
-M.~Centelles et~al.
-\newblock Phys Rev Let. 102, pages 122--502, 2009.
+\bibitem{audit}
+Audit et~al.
+\newblock {\em Nuc. Inst. Meth. A301}, pages 473--481, 1991.
 
-\bibitem[et al.~11]{liewen}
+\bibitem{gbruan}
+G.~Bruan et~al.
+\newblock Tdc chip and readout driver developments for compass and lhc
+  experiments.
+\newblock {\em arXiv:hep-ex}, 1998.
+
+\bibitem{liewen}
 Lie-Wen~Chen et~al.
-\newblock Proceedings of the 13th national conference on nuclear structure in
-  china.
+\newblock {\em Proceedings of the 13th National Conference on Nuclear Structure
+  in China}.
 \newblock 2011.
 
-\bibitem[Gesslerr~08]{gessler}
+\bibitem{centelles}
+M.~Centelles et~al.
+\newblock {\em Phys Rev Let. 102}, pages 122--502, 2009.
+
+\bibitem{oreglia}
+M.~Oreglia et~al.
+\newblock {\em Phys. Rev. D. 25}, page~9, 1982.
+
+\bibitem{gessler}
 T.~Gesslerr.
-\newblock Bachelor thesis.
+\newblock {\em Bachelor thesis}.
 \newblock Universitaet, Giessen, 2008.
 
-\bibitem[Hall~96]{sjhall}
-S.J. Hall, G.J. Miller, R.~Beck \& P.~Jennewein.
-\newblock Nucl. Instrum. Methods A 368, page 698, 1996.
+\bibitem{sjhall}
+S.J. Hall, G.J. Miller, R.~Beck, and P.~Jennewein.
+\newblock {\em Nucl. Instrum. Methods A 368}, page 698, 1996.
 
-\bibitem[J~C.~McGeorge~08]{mcgeorge}
-et~al. J~C.~McGeorge~J. D.~Kellie.
-\newblock Eur. Phys. J. A, 37, pages 129--137, 2008.
+\bibitem{mcgeorge}
+et~al. J~C.~McGeorge, J. D.~Kellie.
+\newblock {\em Eur. Phys. J. A, 37}, pages 129--137, 2008.
 
-\bibitem[Knoll~]{knoll}
+\bibitem{knoll}
 G.F. Knoll.
-\newblock Radiation detection and measurement.
+\newblock {\em Radiation Detection and Measurement}.
 \newblock John Wiley and Sons.
 
-\bibitem[Krambrich~]{krambrich}
+\bibitem{krambrich}
 D.~Krambrich.
 \newblock {\em University of Mainz, PhD thesis}.
 \newblock PhD thesis.
 
-\bibitem[Lemmer~07]{lemmer}
+\bibitem{lemmer}
 B.~Lemmer.
-\newblock Diploma thesis.
+\newblock {\em Diploma thesis}.
 \newblock Universitaet, Giessen, 2007.
 
-\bibitem[Middleton~11]{duncan}
+\bibitem{duncan}
 D.~Middleton.
-\newblock Mainz a2 tagger calibrations a2 internal report., 2011.
+\newblock {\em Mainz a2 tagger calibrations a2 internal report.}, 2011.
 
-\bibitem[Novotny~91]{novotny}
+\bibitem{novotny}
 R.~Novotny.
-\newblock IEEE Trans. Nucl. Sci. 38, page~2, 1991.
+\newblock {\em IEEE Trans. Nucl. Sci. 38}, page~2, 1991.
 
-\bibitem[Roebig~91]{roebig}
+\bibitem{roebig}
 M.~E. Roebig.
-\newblock Diploma thesis.
+\newblock {\em Diploma thesis}.
 \newblock Universitaet Giessen, 1991.
 
-\bibitem[Schmitt~04]{lschmitt}
+\bibitem{lschmitt}
 L.~Schmitt.
-\newblock IEEE Trans.Nucl.Sci., pages 51:438--444, 2004.
+\newblock {\em IEEE Trans.Nucl.Sci.}, pages 51:438--444, 2004.
 
-\bibitem[Tarbet~07]{claire}
+\bibitem{claire}
 C.~M. Tarbet.
-\newblock Coherent $\pi^{0}$ photoprodution on nuclei.
+\newblock {\em Coherent $\pi^{0}$ photoprodution on nuclei}.
 \newblock University of Edinburgh, 2007.
 
-\bibitem[Unverzagt~04]{marc}
+\bibitem{marc}
 M.~Unverzagt.
-\newblock Diploma thesis.
+\newblock {\em Diploma thesis}.
 \newblock University of Mainz, 2004.
 
-\bibitem[Unverzagt~10]{marcu}
+\bibitem{marcu}
 M.~Unverzagt.
-\newblock Nucl.Phys.Proc.Suppl. 198, pages 174--181, 2010.
+\newblock {\em Nucl.Phys.Proc.Suppl. 198}, pages 174--181, 2010.
 
-\bibitem[website~15]{a2mami}
+\bibitem{a2mami}
 A2~MAMI website.
-\newblock {\em http://wwwa2.kph.uni-mainz.de}, 2015.
+\newblock http://wwwa2.kph.uni-mainz.de, 2015.
 
 \end{thebibliography}
