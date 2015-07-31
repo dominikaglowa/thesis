@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  31 JUL 2015 15:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  31 JUL 2015 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -260,9 +260,10 @@ LaTeX Font Info:    ... okay on input line 30.
 \openout2 = `title.aux'.
 
  (./title.tex
+
+LaTeX Warning: File `crest.eps' not found on input line 15.
+
 Package epstopdf Info: Source file: <crest.eps>
-(epstopdf)                    date: 2015-07-30 14:17:32
-(epstopdf)                    size: 124412 bytes
 (epstopdf)             Output file: <crest-eps-converted-to.pdf>
 (epstopdf)                    date: 2015-07-30 14:17:32
 (epstopdf)                    size: 8639 bytes
@@ -270,7 +271,7 @@ Package epstopdf Info: Source file: <crest.eps>
  crest.eps>
 (epstopdf)             \includegraphics on input line 15.
 Package epstopdf Info: Output file is already uptodate.
- <crest-eps-converted-to.pdf, id=1, 365.365pt x 368.37625pt>
+<crest-eps-converted-to.pdf, id=1, 365.365pt x 368.37625pt>
 File: crest-eps-converted-to.pdf Graphic file (type pdf)
 
 <use crest-eps-converted-to.pdf>
@@ -539,7 +540,7 @@ Here is how much of TeX's memory you used:
  5889 multiletter control sequences out of 15000+600000
  11966 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,11n,40p,1416b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,40p,1416b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
