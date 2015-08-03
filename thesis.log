@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  31 JUL 2015 16:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  3 AUG 2015 10:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,17 +336,8 @@ File: pictures/png/GlaTagger.png Graphic file (type png)
 <use pictures/png/GlaTagger.png>
 Package pdftex.def Info: pictures/png/GlaTagger.png used on input line 69.
 (pdftex.def)             Requested size: 293.89838pt x 248.93034pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ƒ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-
-
-LaTeX Warning: Citation `shall' on page 6 undefined on input line 80.
-
-[6 <./pictures/png/GlaTagger.png (PNG copy)>] [7]
-<pictures/png/naigeom.png, id=58, 577.15625pt x 338.26375pt>
+ [6 <./pictures/png/GlaTagger.png (PNG copy)>]
+[7] <pictures/png/naigeom.png, id=58, 577.15625pt x 338.26375pt>
 File: pictures/png/naigeom.png Graphic file (type png)
 
 <use pictures/png/naigeom.png>
@@ -529,35 +520,31 @@ Missing character: There is no ½ in font cmr10!
 
 
 ]) [32] (./thesis.aux (./title.aux) (./abstract.aux) (./chapter3.aux)
-(./chapter4.aux))
-
-LaTeX Warning: There were undefined references.
-
- ) 
+(./chapter4.aux)) ) 
 Here is how much of TeX's memory you used:
- 2777 strings out of 495028
- 38253 string characters out of 6181497
+ 2776 strings out of 495028
+ 38246 string characters out of 6181497
  96057 words of memory out of 5000000
- 5889 multiletter control sequences out of 15000+600000
+ 5888 multiletter control sequences out of 15000+600000
  11966 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,11n,40p,1416b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (35 pages, 2773493 bytes).
+ 42i,11n,40p,1424b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (35 pages, 2773411 bytes).
 PDF statistics:
  213 PDF objects out of 1000 (max. 8388607)
  131 compressed objects within 2 object streams
