@@ -1,10 +1,24 @@
 \begin{thebibliography}{10}
 
+\bibitem{Proposal}
+Proposal for an experiment: �neutron skin evolution in isotopes of tin and
+  calcium from coherent pion photoproduction�, 2009.
+
+\bibitem{prex}
+S.~Abrahamyan and et~al.
+\newblock Measurement of the neutron radius of $^{208}$pb through parity
+  violation in electron scattering.
+\newblock {\em Phys. Rev. Lett. 108}, page 112502, 2012.
+
 \bibitem{jalbert}
 J.~Albert.
 \newblock {\em Test Measurements for the Crystal Ball Detector at MAMI, PhD
   thesis}.
 \newblock PhD thesis, 2003.
+
+\bibitem{amsler}
+C.~Amsler and et~al.
+\newblock {\em Phys. Lett. B 667}, page~1, 2008.
 
 \bibitem{john}
 J.~R.~M. Annand.
@@ -48,6 +62,12 @@ M.~Centelles et~al.
 M.~Oreglia et~al.
 \newblock {\em Phys. Rev. D. 25}, page~9, 1982.
 
+\bibitem{fattoyev}
+F.~J. Fattoyev and et~al.
+\newblock Pure neytron matter constraints on the relativistic mean-field and
+  skyrme-hartree-fock models.
+\newblock {\em arXiv:1205.0857v1}, 2012.
+
 \bibitem{gessler}
 T.~Gesslerr.
 \newblock {\em Bachelor thesis}.
@@ -84,6 +104,10 @@ D.~Middleton.
 R.~Novotny.
 \newblock {\em IEEE Trans. Nucl. Sci. 38}, page~2, 1991.
 
+\bibitem{piek}
+J.~Piekarewicz and S.~Pieper.
+\newblock {\em Nucl. Phys. A 778}, page~10, 2006.
+
 \bibitem{roebig}
 M.~E. Roebig.
 \newblock {\em Diploma thesis}.
@@ -97,6 +121,11 @@ L.~Schmitt.
 C.~M. Tarbet.
 \newblock {\em Coherent $\pi^{0}$ photoprodution on nuclei}.
 \newblock University of Edinburgh, 2007.
+
+\bibitem{trzcina}
+A.~Trzcinska.
+\newblock Antiprotonic atoms as a tool to study the nuclear periphery.
+\newblock {\em A. Phys. Pol. B. 41}, 2010.
 
 \bibitem{marc}
 M.~Unverzagt.

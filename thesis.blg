@@ -3,12 +3,30 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
 The style file: plain.bst
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "shall"
+Warning--I didn't find a database entry for "dudek"
+Warning--I didn't find a database entry for "martin"
+Warning--I didn't find a database entry for "prop"
+Warning--I didn't find a database entry for "jo"
+Warning--I didn't find a database entry for "walker"
+Warning--I didn't find a database entry for "bertulani"
+Warning--I didn't find a database entry for "bjorken"
+Warning--I didn't find a database entry for "chew"
+Warning--I didn't find a database entry for "krusche"
+Warning--I didn't find a database entry for "nagl"
+Warning--I didn't find a database entry for "davidson"
+Warning--I didn't find a database entry for "maid"
+Warning--I didn't find a database entry for "said"
+Warning--I didn't find a database entry for "drechsel"
+Warning--I didn't find a database entry for "pda"
+Warning--I didn't find a database entry for "arndt"
+Warning--to sort, need author or key in Proposal
 Warning--empty school in jalbert
+Warning--empty title in amsler
 Warning--empty publisher in john
 Warning--empty title in dehn
 Warning--empty title in starostin
@@ -23,47 +41,48 @@ Warning--empty school in krambrich
 Warning--empty year in krambrich
 Warning--empty title in duncan
 Warning--empty title in novotny
+Warning--empty title in piek
 Warning--empty title in lschmitt
 Warning--empty title in marcu
-You've used 24 entries,
+You've used 30 entries,
             2118 wiz_defined-function locations,
-            600 strings with 5538 characters,
-and the built_in function-call counts, 6505 in all, are:
-= -- 624
-> -- 190
-< -- 10
-+ -- 80
-- -- 56
-* -- 328
-:= -- 1041
-add.period$ -- 59
-call.type$ -- 24
-change.case$ -- 79
+            641 strings with 6260 characters,
+and the built_in function-call counts, 8066 in all, are:
+= -- 775
+> -- 250
+< -- 13
++ -- 104
+- -- 74
+* -- 405
+:= -- 1289
+add.period$ -- 73
+call.type$ -- 30
+change.case$ -- 104
 chr.to.int$ -- 0
-cite$ -- 41
-duplicate$ -- 344
-empty$ -- 571
-format.name$ -- 56
-if$ -- 1433
+cite$ -- 50
+duplicate$ -- 425
+empty$ -- 697
+format.name$ -- 74
+if$ -- 1778
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 28
-newline$ -- 110
-num.names$ -- 48
-pop$ -- 174
+int.to.str$ -- 30
+missing$ -- 33
+newline$ -- 136
+num.names$ -- 58
+pop$ -- 214
 preamble$ -- 1
-purify$ -- 76
+purify$ -- 97
 quote$ -- 0
-skip$ -- 257
+skip$ -- 326
 stack$ -- 0
-substring$ -- 322
-swap$ -- 110
-text.length$ -- 10
+substring$ -- 370
+swap$ -- 137
+text.length$ -- 13
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 80
-warning$ -- 17
-while$ -- 64
-width$ -- 26
-write$ -- 222
-(There were 18 warnings)
+type$ -- 104
+warning$ -- 20
+while$ -- 77
+width$ -- 32
+write$ -- 277
+(There were 36 warnings)

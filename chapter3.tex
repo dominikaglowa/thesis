@@ -110,18 +110,18 @@ where $E_{0}$ is the initial beam energy and $E_{e}$ is the energy of the scatte
 \begin{tabular}{c c c}
 \hline\hline
 Energy Photon Resolution & &  \\
- & $\frac{\sigma}{E}$ & ~ $\frac{1.7\%}{E(GeV^{0.4})}$ \\
+ & $\frac{\sigma}{E}$ & $\sim \frac{1.7\%}{E(GeV^{0.4})}$ \\
 \hline
 Angular Resolution & & \\
- & azimuthal: & ~ $\frac{2^{\circ}}{sin\theta}$ \\
- & polar: & ~2-3$^{\circ}$ \\
+ & azimuthal: & $\sim \frac{2^{\circ}}{sin\theta}$ \\
+ & polar: & $\sim 2-3^{\circ}$ \\
 \hline
 Angular Coverage & & \\
  & azimuthal: & 0 - 360$^{\circ}$ \\
  & polar: & 20 - 160$^{\circ}$ \\
 \hline
 Time resolution & & \\
- & & $\sigma ~ 2ns$ \\ [1ex]
+ & & $\sigma \sim 2ns$ \\
 \hline\hline
 \end{tabular}
 \label{table_cbparam}
@@ -145,7 +145,22 @@ Time resolution & & \\
 
 \indent Correlating  the  hits  in  both  the cathode  stripes  and  the  anode  wires  will determine the tracks for charged particles. In the case of neutral particles experiments use the information provided by the MWPCs to determine the position of the target inside the CB. This information is extracted from the linear fit to the polar angle and z-position of the hits registered in both chambers to obtain the azimuthal and theta and angles for each track. Then the trajectories of multiple tracks are analyzed to find their intersection, and therefore obtain the position of the target. The design of the chambers allows this detector for full 360$\deg$ coverage of the azimuthal angle with polar coverage that ranges between 21$^{\circ}$ and 159$^{\circ}$; the characteristics of the MWPC chambers are summarized in the below table.
 
-Table 3.4.1 MWPCs design parameters.  MISSING TABLE ?????
+\begin{table}[ht]
+\caption{MWPC parameters}
+\centering
+\begin{tabular}{c c c}
+\hline\hline
+Angular Resolution & & \\
+ & azimuthal: & ~ $1.8^{\deg}$ \\
+ & polar: & 2$^{\deg}$ \\
+\hline
+Angular Coverage & & \\
+ & azimuthal: & 0 - 360$^{\circ}$ \\
+ & polar: & 21 - 159$^{\circ}$ \\
+\hline\hline
+\end{tabular}
+\label{table_cbparam}
+\end{table} 
 
 \section{Particle Identification Detector}
 
@@ -212,7 +227,22 @@ Table 3.4.1 MWPCs design parameters.  MISSING TABLE ?????
 \indent The targets were secured in a target holder and placed inside a PVC tube at the centre of detectors. The details of the targets are given in the below table.
 
 //Table 3.7 Tin targets. - will add later when I find where it is T.T 
-
+\begin{table}[ht]
+\caption{Tin targets}
+\centering
+\begin{tabular}{c c  c}
+\hline\hline
+Isotope mass(MeV) thickness(mm)  \\
+\hline
+$^{116}Sn$ & & \\
+\hline
+$^{120}Sn$ & & \\
+\hline
+$^{124}Sn$ & & \\
+\hline\hline
+\end{tabular}
+\label{table_cbparam}
+\end{table} 
 \section{Data Acquisition}
 
 \indent The analogue output signal of the detectors' PMTS has been read out and translated into a digital signal by the data acquisition system (DAQ) with the use of charge to digital converters (QDCs), analogue to digital converters (ADCs) and time to digital converters (TDCs). The latter measures the time difference between the start signal of an experimental trigger and the stop signal from a given detector element, thus provided the information about the time of the event. The ADCs give digital information proportional to the pulse height of the signal, while QDCs return digital signal proportional to charge; both these values, pulse height and charge are proportional to the energy deposited in the detector element.

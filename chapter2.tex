@@ -78,8 +78,8 @@ where q is the momentum transfer to the nucleus, $F_{m}(q)$ is the matter form f
 
 \begin{figure}[H]
 \begin{center}
-%\includegraphics[scale=0.6]{photorea.png}
-\caption{Simple diagram of a photoproduction reaction.}
+\includegraphics[scale=0.6]{pictures/png/photorea.png}
+\caption{Simple diagram of a photoproduction reaction \cite{jo}.}
 \label{photorea}
 \end{center}
 \end{figure}
@@ -88,8 +88,8 @@ where q is the momentum transfer to the nucleus, $F_{m}(q)$ is the matter form f
 
 \begin{figure}[H]
 \begin{center}
-%\includegraphics[scale=0.6]{mandelstam.png}
-\caption{Feynman diagrams of the s-channel, t-channel and u-channel \cite{jo}.}
+\includegraphics[scale=0.6]{pictures/png/mandelstam.png}
+\caption{Feynman diagrams of the s-channel, t-channel and u-channel.}
 \label{mandelstam}
 \end{center}
 \end{figure}
@@ -108,7 +108,7 @@ u=(p_{i}-p_{f})^{2}=(k-p_{f})^{2}
 s is the square of the energy of the reaction, t is the square of the momentum transfer, while the sum of the squares of the masses of particles is defined as a linear combination of those three variables.
 
 \begin{equation}
-s+t+u=\sum m^{2}_{i}
+s+t+u=\sum\limits m^{2}_{i}
 \end{equation}
 
 \indent Only two of the Mandelstam variables are necessary to fully describe the reaction between photon and nucleon. In the relativistic approximation, $mc^{2}<<E$, these variables can be represented as:
@@ -152,32 +152,28 @@ where, W is the invariant mass of the system.
 \indent The electromagnetic current of a nucleon, $J$, as proposed by Chew, Goldberg, Low, Nambu (CGLN), can be written in terms of nucleon spin matrices and meson unit vectors \^q and \^k \cite{chew}:
 
 \begin{equation}
-J=%\frac{q}{k}\frac{4\pi W}{m_{n}}(i\sigma F_{1}+(\sigma \dot \^k)(\sigma \cross \^q)F_{2}+i\~ k(\sigma \dot \^q)F_{3}+i\~ k(\sigma \dot \^k)F_{4})
+J=\frac{q}{k}\frac{4\pi W}{m_{n}}(i\sigma F_{1}+(\vec{\sigma} \cdot \hat{k})(\vec{\sigma} \times \hat{q})F_{2}+i k(\vec{\sigma} \cdot \hat{q})F_{3}+i k(\vec{\sigma} \cdot \hat{k})F_{4})
 \end{equation}
 where,
 \begin{equation}
-^{\sim}\sigma=%\sigma-(\sigma \dot \^q)\^q
+\bar{\sigma}=\sigma-(\sigma \cdot \hat{q})\hat{q}
 \end{equation}
 \begin{equation}
-^{\sim} k=%\^k-(\^k \dot \^q)\^q
+\bar{k}=\hat{k}-(\hat{k} \cdot \hat{q})\hat{q}
 \end{equation}
-and $F_{1}$, $F_{2}$, $F_{3}$, $F_{4}$, known as CGLN amplitudes, are the structure functions of energy and scattering angle, which can be written in terms of electric and magnetic multipoles and angular momentum through a partial wave expansion:
+and $F_{1}$, $F_{2}$, $F_{3}$, $F_{4}$, known as CGLN amplitudes, are the structure functions of energy and scattering angle, which can be written in terms of electric and magnetic multipoles and angular momentum through a partial wave expansion FIX THIS FORMULA:
 
 \begin{equation}
-F_{1}(\theta)=
-%\sum_{l=0}^{\infinity}(lM_{l+}+E_{l+})P'_{l-1}(cos\theta)+((l+1)M_{l-}_E_{l-})P'_{l-1}(cos\theta)
+F_{1}(\theta)=\sum\limits_{l=0}^{\infty} (lM_{l+}+E_{l+})P'_{l-1}(cos\theta)+((l+1)M_{l-}-E_{l-})P'_{l-1}(cos\theta)
 \end{equation}
 \begin{equation}
-F_{2}(\theta)=
-%\sum_{l=0}^{\infinity}((l+1)M_{l+}+lM_{l-})P'_{l}(cos\theta)
+F_{2}(\theta)=\sum\limits_{l=0}^{\infty} ((l+1)M_{l+}+lM_{l-})P'_{l}(cos\theta)
 \end{equation}
 \begin{equation}
-F_{3}(\theta)=
-%\sum_{l=0}^{\infinity}(E_{l+}-M_{l+})P"_{l+1}(cos\theta)+((E_{l-}+M_{l-})P"_{l-1}(cos\theta)
+F_{3}(\theta)=\sum\limits_{l=0}^{\infty} (E_{l+}-M_{l+})P"_{l+1}(cos\theta)+((E_{l-}+M_{l-})P"_{l-1}(cos\theta)
 \end{equation}
 \begin{equation}
-F_{4}(\theta)=
-%\sum_{l=0}^{\infinity}(M_{l+}-E_{l+}-M_{l}-E_{l-})P"_{l}(cos\theta)
+F_{4}(\theta)=\sum\limits_{l=0}^{\infty} (M_{l+}-E_{l+}-M_{l}-E_{l-})P"_{l}(cos\theta)
 \end{equation}
 where, $P'_{l}$ and $P"_{l}$ are derivatives of a Legendre polynomials, $l$ is the relative orbital momentum of a meson, $E_{+/-}$ and $M_{+/-}$ are electric and magnetic transition respectively, and the + or - determine whether the spin of the baryon should be added or subtracted.
 
@@ -273,9 +269,9 @@ where, $H_{0}$ is a free Hamiltonian expressing the total kinetic energy of the 
 \indent The transmission matrix for the process is given as:
 
 \begin{equation}
-T_{AC}=V_{AC}+\sum_{B}V_{AB}g_{B}(E)T_{BC}(E)
+T_{AC}=V_{AC}+\sum\limits_{B}V_{AB}g_{B}(E)T_{BC}(E)
 \end{equation}
-where, $g_{B}$ is the propagator of the channel B of the reaction, and $\sum_{B}$ sums all the possible channels of the reaction $A\rightarrow C$ via $B$. Alternatively, the transmission matrix can be split into the background and resonant terms what allows for independent calculations of for the background and resonant contributions.
+where, $g_{B}$ is the propagator of the channel B of the reaction, and $\sum\limits_{B}$ sums all the possible channels of the reaction $A\rightarrow C$ via $B$. Alternatively, the transmission matrix can be split into the background and resonant terms what allows for independent calculations of for the background and resonant contributions.
 
 \begin{equation}
 T_{AC}=t_{bg}^{AC}+t_{R}^{AC}(E)
@@ -300,7 +296,7 @@ T_{\gamma\pi}=A_{1}(1+iT_{\pi N})+A_{R}T_{\pi N,\pi N}
 where $A_{R}$ parametrises the multipole amplitudes of the resonant terms, and $A_{1}$ parametrises background.
 
 \begin{equation}
-A_{R}=\frac{m_{\pi}}{q}[\frac{k}{q}]^{l}\sum_{n=0}^{N}p_{n}[\frac{E_{\pi}}{m_{\pi}}]
+A_{R}=\frac{m_{\pi}}{q}[\frac{k}{q}]^{l}\sum\limits_{n=0}^{N}p_{n}[\frac{E_{\pi}}{m_{\pi}}]
 \end{equation}
 \begin{equation}
 E_{\pi}=\frac{s-(m_{\pi}+M)^{2}}{2M}=E_{\gamma}-m_{\pi}(1+\frac{m_{\pi}}{2M})
@@ -320,14 +316,21 @@ where, $A_{B}$ is a partial wave of a pseudoscalar Born amplitude, and $A_{Q}$ i
 
 \subsection{The nuclear Equation of State}
 
-\indent By definition, the equation of state (EOS) is a function of density ($\rho$) and isospin asymmetry ($\alpha$) and it's expressed as the energy (E) per nucleon in the infinite nuclear matter, $\frac{E}{A} (\rho,\alpha)$ where $\alpha$ is written as:
+\indent By definition, the equation of state (EOS) is a function of density ($\rho$) and isospin asymmetry ($\alpha$) and it's expressed as the energy (E) per nucleon in the infinite nuclear matter, $\frac{E}{A} (\rho,\alpha)$ where $\alpha$ is expressed as:
 
 \begin{equation}
 \alpha=\frac{N-Z}{A}
 \end{equation}
 where $N$ is the number of neutrons,$Z$ is the number of protons and $A$ is the atomic mass number.
 
+\indent The Bethe-Weizsaecker mass formula, more commonly known as semi-empirical mass formula, based on the theory of the liquid drop model, have been first proposed in 1935 to explain the various properties of an atomic nucleus. According to the formula, the binding energy, $E_{B}$ can be approximated as:
 
+\begin{equation}
+E_{B}=a_{V}A^{3}-a_{s}A^{\frac{2}{3}}+a_{C}\frac{Z^{2}}{A^{\frac{1}{3}}}-a_{A}\frac{(A-2Z)^{2}}{A}-\delta(A,Z)
+\end{equation}
+where, $a_{V}$ is the volume coefficient (based on the strong force), $a_{S}$, also based on the strong force, is a surface term which provides a correction to the volume term, $a_{C}$ is the Coulomb or electrostatic term which introduces a correction due to electrostatic repulsion. $a_{A}$ is the assymetry coefficient arises from the Pauli exclusion principle, and accounts for the imbalances between numbers of proton and neutrons in a nucleus. The pairing term $\delta(A,Z)$ covers the effects of spin-coupling \cite{bertulani}.
+
+\indent
 
 \section{Previous Measurements}
 
