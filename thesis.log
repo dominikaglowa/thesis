@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  3 AUG 2015 10:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  4 AUG 2015 11:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -227,7 +227,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 No file macros.tex.
 ** Make sure \initfloatingfigs being called immediately
    after \begin{document} !! ** (./thesis.aux (./title.aux) (./abstract.aux)
-(./chapter3.aux) (./chapter4.aux))
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -293,151 +293,236 @@ onverted-to.pdf>]
 
 
 ]) [2]
-\openout2 = `chapter3.aux'.
+\openout2 = `chapter2.aux'.
 
- (./chapter3.tex
+ (./chapter2.tex
 Chapter 1.
-<pictures/png/a2hallsetup.png, id=26, 724.1454pt x 194.6472pt>
-File: pictures/png/a2hallsetup.png Graphic file (type png)
 
-<use pictures/png/a2hallsetup.png>
-Package pdftex.def Info: pictures/png/a2hallsetup.png used on input line 15.
-(pdftex.def)             Requested size: 398.2812pt x 107.05627pt.
- [1
+LaTeX Warning: Citation `dudek' on page 1 undefined on input line 10.
+
+
+LaTeX Warning: Citation `martin' on page 1 undefined on input line 10.
+
+[1
 
 
 
 
 ]
-<pictures/png/rfm.png, id=31, 556.0775pt x 269.005pt>
+
+LaTeX Warning: Citation `amsler' on page 2 undefined on input line 28.
+
+[2]
+
+LaTeX Warning: Citation `prop' on page 3 undefined on input line 54.
+
+
+LaTeX Warning: Citation `Proposal' on page 3 undefined on input line 59.
+
+[3] <pictures/png/tiniso.png, id=36, 371.3875pt x 313.17pt>
+File: pictures/png/tiniso.png Graphic file (type png)
+
+<use pictures/png/tiniso.png>
+Package pdftex.def Info: pictures/png/tiniso.png used on input line 69.
+(pdftex.def)             Requested size: 222.83421pt x 187.90344pt.
+
+
+LaTeX Warning: Citation `fattoyev' on page 4 undefined on input line 70.
+
+
+LaTeX Warning: Citation `fattoyev' on page 4 undefined on input line 70.
+
+[4 <./pictures/png/tiniso.png>]
+
+LaTeX Warning: Citation `jo' on page 5 undefined on input line 92.
+
+
+LaTeX Warning: Citation `walker' on page 5 undefined on input line 97.
+
+[5]
+
+LaTeX Warning: Citation `bertulani' on page 6 undefined on input line 125.
+
+
+LaTeX Warning: Citation `bjorken' on page 6 undefined on input line 135.
+
+
+LaTeX Warning: Citation `chew' on page 6 undefined on input line 152.
+
+[6]
+
+LaTeX Warning: Citation `krusche' on page 7 undefined on input line 184.
+
+[7]
+
+LaTeX Warning: Citation `nagl' on page 8 undefined on input line 225.
+
+[8]
+
+LaTeX Warning: Citation `davidson' on page 9 undefined on input line 237.
+
+[9]
+
+LaTeX Warning: Citation `maid' on page 10 undefined on input line 284.
+
+
+LaTeX Warning: Citation `said' on page 10 undefined on input line 284.
+
+
+LaTeX Warning: Citation `drechsel' on page 10 undefined on input line 286.
+
+
+LaTeX Warning: Citation `pda' on page 10 undefined on input line 293.
+
+[10]
+
+LaTeX Warning: Citation `arndt' on page 11 undefined on input line 295.
+
+
+LaTeX Warning: Citation `maid' on page 11 undefined on input line 315.
+
+
+LaTeX Warning: Citation `said' on page 11 undefined on input line 315.
+
+
+LaTeX Warning: Citation `arndt' on page 11 undefined on input line 315.
+
+[11]
+
+LaTeX Warning: Citation `piek' on page 12 undefined on input line 334.
+
+
+LaTeX Warning: Citation `prex' on page 12 undefined on input line 336.
+
+
+LaTeX Warning: Citation `trzcina' on page 12 undefined on input line 338.
+
+[12] <pictures/png/antiproton.png, id=68, 388.45125pt x 330.23375pt>
+File: pictures/png/antiproton.png Graphic file (type png)
+
+<use pictures/png/antiproton.png>
+Package pdftex.def Info: pictures/png/antiproton.png used on input line 342.
+(pdftex.def)             Requested size: 233.07254pt x 198.14177pt.
+
+
+LaTeX Warning: Citation `trzcina' on page 13 undefined on input line 343.
+
+
+LaTeX Warning: Citation `trzcina' on page 13 undefined on input line 343.
+
+) [13 <./pictures/png/antiproton.png>]
+\openout2 = `chapter3.aux'.
+
+ (./chapter3.tex
+Chapter 2.
+<pictures/png/a2hallsetup.png, id=72, 724.1454pt x 194.6472pt>
+File: pictures/png/a2hallsetup.png Graphic file (type png)
+
+<use pictures/png/a2hallsetup.png>
+Package pdftex.def Info: pictures/png/a2hallsetup.png used on input line 15.
+(pdftex.def)             Requested size: 398.2812pt x 107.05627pt.
+ [14
+
+
+
+]
+<pictures/png/rfm.png, id=77, 556.0775pt x 269.005pt>
 File: pictures/png/rfm.png Graphic file (type png)
 
 <use pictures/png/rfm.png>
 Package pdftex.def Info: pictures/png/rfm.png used on input line 31.
 (pdftex.def)             Requested size: 305.84357pt x 147.9532pt.
- [2 <./pictures/png/a2hallsetup.png>]
-<pictures/png/HDSM.png, id=37, 1402.23875pt x 837.1275pt>
+ [15 <./pictures/png/a2hallsetup.png>]
+<pictures/png/HDSM.png, id=82, 1402.23875pt x 837.1275pt>
 File: pictures/png/HDSM.png Graphic file (type png)
 
 <use pictures/png/HDSM.png>
 Package pdftex.def Info: pictures/png/HDSM.png used on input line 41.
 (pdftex.def)             Requested size: 350.55882pt x 209.28136pt.
- [3 <./pictures/png/rfm.png>]
-<pictures/jpg/mamifloor.jpg, id=42, 765.86125pt x 661.47125pt>
+ [16 <./pictures/png/rfm.png>]
+<pictures/jpg/mamifloor.jpg, id=88, 765.86125pt x 661.47125pt>
 File: pictures/jpg/mamifloor.jpg Graphic file (type jpg)
 
 <use pictures/jpg/mamifloor.jpg>
 Package pdftex.def Info: pictures/jpg/mamifloor.jpg used on input line 51.
 (pdftex.def)             Requested size: 382.92969pt x 330.73482pt.
- [4 <./pictures/png/HDSM.png>] [5 <./pictures/jpg/mamifloor.jpg>]
-<pictures/png/GlaTagger.png, id=51, 367.3725pt x 311.1625pt>
+ [17 <./pictures/png/HDSM.png>] [18 <./pictures/jpg/mamifloor.jpg>]
+<pictures/png/GlaTagger.png, id=96, 367.3725pt x 311.1625pt>
 File: pictures/png/GlaTagger.png Graphic file (type png)
 
 <use pictures/png/GlaTagger.png>
 Package pdftex.def Info: pictures/png/GlaTagger.png used on input line 69.
 (pdftex.def)             Requested size: 293.89838pt x 248.93034pt.
- [6 <./pictures/png/GlaTagger.png (PNG copy)>]
-[7] <pictures/png/naigeom.png, id=58, 577.15625pt x 338.26375pt>
+ [19 <./pictures/png/GlaTagger.png (PNG copy)>] [20] <pictures/png/naigeom.png,
+ id=103, 577.15625pt x 338.26375pt>
 File: pictures/png/naigeom.png Graphic file (type png)
 
 <use pictures/png/naigeom.png>
-Package pdftex.def Info: pictures/png/naigeom.png used on input line 99.
+Package pdftex.def Info: pictures/png/naigeom.png used on input line 95.
 (pdftex.def)             Requested size: 404.0066pt x 236.78299pt.
- [8] [9 <./pictures/png/naigeom.png>]
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no œ in font cmr12!
- [10]
-<pictures/png/mwpc.png, id=72, 247.92625pt x 143.53625pt>
+ [21 <./pictures/png/naigeom.png>] [22]
+<pictures/png/mwpc.png, id=111, 247.92625pt x 143.53625pt>
 File: pictures/png/mwpc.png Graphic file (type png)
 
 <use pictures/png/mwpc.png>
-Package pdftex.def Info: pictures/png/mwpc.png used on input line 143.
+Package pdftex.def Info: pictures/png/mwpc.png used on input line 139.
 (pdftex.def)             Requested size: 247.92564pt x 143.53589pt.
- [11 <./pictures/png/mwpc.png>]
-<pictures/png/pidschematics.png, id=76, 750.805pt x 471.7625pt>
+ [23 <./pictures/png/mwpc.png>]
+<pictures/png/pidschematics.png, id=117, 750.805pt x 471.7625pt>
 File: pictures/png/pidschematics.png Graphic file (type png)
 
 <use pictures/png/pidschematics.png>
-Package pdftex.def Info: pictures/png/pidschematics.png used on input line 162.
+Package pdftex.def Info: pictures/png/pidschematics.png used on input line 158.
 
 (pdftex.def)             Requested size: 375.40158pt x 235.88066pt.
-Missing character: There is no ï in font cmr12!
-Missing character: There is no ¿ in font cmr12!
-Missing character: There is no ½ in font cmr12!
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
- [12 <./pictures/png/pidschematics.png>]
-<pictures/png/banana.png, id=80, 357.4956pt x 213.4374pt>
+ [24]
+<pictures/png/banana.png, id=121, 357.4956pt x 213.4374pt>
 File: pictures/png/banana.png Graphic file (type png)
 
 <use pictures/png/banana.png>
-Package pdftex.def Info: pictures/png/banana.png used on input line 176.
+Package pdftex.def Info: pictures/png/banana.png used on input line 168.
 (pdftex.def)             Requested size: 285.99686pt x 170.75014pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no „ in font cmr12!
-Missing character: There is no ¢ in font cmr12!
- [13 <./pictures/png/banana.png>]
-<pictures/png/taps.png, id=85, 292.09125pt x 248.93pt>
+ [25 <./pictures/png/pidschematics.png>]
+<pictures/png/taps.png, id=125, 292.09125pt x 248.93pt>
 File: pictures/png/taps.png Graphic file (type png)
 
 <use pictures/png/taps.png>
-Package pdftex.def Info: pictures/png/taps.png used on input line 193.
+Package pdftex.def Info: pictures/png/taps.png used on input line 185.
 (pdftex.def)             Requested size: 408.92493pt x 348.4996pt.
-Missing character: There is no Ã in font cmr12!
-Missing character: There is no ¢ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no ‚ in font cmr12!
-Missing character: There is no ¬ in font cmr12!
-Missing character: There is no â in font cmr12!
-Missing character: There is no € in font cmr12!
-Missing character: There is no œ in font cmr12!
- [14 <./pictures/png/taps.png>]
-<pictures/png/tiniso.png, id=89, 371.3875pt x 313.17pt>
+ [26 <./pictures/png/banana.png>] [27 <./pictures/png/taps.png>]
 File: pictures/png/tiniso.png Graphic file (type png)
-
-<use pictures/png/tiniso.png>
-Package pdftex.def Info: pictures/png/tiniso.png used on input line 214.
+ <use pictures/png/tiniso.png>
+Package pdftex.def Info: pictures/png/tiniso.png used on input line 206.
 (pdftex.def)             Requested size: 297.1104pt x 250.53633pt.
- [15] [16 <./pictures/png/tiniso.png>]
-<pictures/png/cbelectronics.png, id=97, 429.605pt x 209.78375pt>
+ [28] [29]
+<pictures/png/cbelectronics.png, id=140, 429.605pt x 209.78375pt>
 File: pictures/png/cbelectronics.png Graphic file (type png)
 
 <use pictures/png/cbelectronics.png>
-Package pdftex.def Info: pictures/png/cbelectronics.png used on input line 238.
+Package pdftex.def Info: pictures/png/cbelectronics.png used on input line 231.
 
 (pdftex.def)             Requested size: 429.60394pt x 209.78322pt.
 
-Overfull \hbox (17.03899pt too wide) in paragraph at lines 238--239
+Overfull \hbox (17.03899pt too wide) in paragraph at lines 231--232
  [] 
  []
 
-[17 <./pictures/png/cbelectronics.png>] [18]) [19]
+[30 <./pictures/png/cbelectronics.png>] [31]) [32]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
-Chapter 2.
-[20
+Chapter 3.
+[33
 
 
 
-] <pictures/png/cbcluster.png, id=110, 180.675pt x 154.5775pt>
+] <pictures/png/cbcluster.png, id=153, 180.675pt x 154.5775pt>
 File: pictures/png/cbcluster.png Graphic file (type png)
 
 <use pictures/png/cbcluster.png>
 Package pdftex.def Info: pictures/png/cbcluster.png used on input line 37.
 (pdftex.def)             Requested size: 99.37154pt x 85.01787pt.
- [21] [22 <./pictures/png/cbcluster.png>]
+ [34] [35 <./pictures/png/cbcluster.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -445,36 +530,36 @@ File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
- [23]
-<pictures/png/cbtimewalk.png, id=121, 385.44pt x 199.74625pt>
+ [36]
+<pictures/png/cbtimewalk.png, id=164, 385.44pt x 199.74625pt>
 File: pictures/png/cbtimewalk.png Graphic file (type png)
 
 <use pictures/png/cbtimewalk.png>
 Package pdftex.def Info: pictures/png/cbtimewalk.png used on input line 85.
 (pdftex.def)             Requested size: 211.99265pt x 109.86076pt.
- [24 <./pictures/png/cbtimewalk.png>]
-<pictures/png/pidphi.png, id=126, 449.68pt x 571.13374pt>
+ [37 <./pictures/png/cbtimewalk.png>]
+<pictures/png/pidphi.png, id=168, 449.68pt x 571.13374pt>
 File: pictures/png/pidphi.png Graphic file (type png)
 
 <use pictures/png/pidphi.png>
 Package pdftex.def Info: pictures/png/pidphi.png used on input line 101.
 (pdftex.def)             Requested size: 247.32475pt x 314.12453pt.
 
-<pictures/png/pidcali4.png, id=127, 698.61pt x 473.77pt>
+<pictures/png/pidcali4.png, id=169, 698.61pt x 473.77pt>
 File: pictures/png/pidcali4.png Graphic file (type png)
 
 <use pictures/png/pidcali4.png>
 Package pdftex.def Info: pictures/png/pidcali4.png used on input line 109.
 (pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
- [25 <./pictures/png/pidphi.png>]
-<pictures/png/bananacali.png, id=131, 464.73625pt x 285.065pt>
+ [38 <./pictures/png/pidphi.png>]
+<pictures/png/bananacali.png, id=173, 464.73625pt x 285.065pt>
 File: pictures/png/bananacali.png Graphic file (type png)
 
 <use pictures/png/bananacali.png>
 Package pdftex.def Info: pictures/png/bananacali.png used on input line 121.
 (pdftex.def)             Requested size: 278.84389pt x 171.04031pt.
- [26 <./pictures/png/pidcali4.png>]
-<pictures/png/bananagaus.png, id=135, 890.32625pt x 303.1325pt>
+ [39 <./pictures/png/pidcali4.png>]
+<pictures/png/bananagaus.png, id=177, 890.32625pt x 303.1325pt>
 File: pictures/png/bananagaus.png Graphic file (type png)
 
 <use pictures/png/bananagaus.png>
@@ -485,28 +570,28 @@ Overfull \hbox (32.59708pt too wide) in paragraph at lines 129--130
  [] 
  []
 
-[27 <./pictures/png/bananacali.png> <./pictures/png/bananagaus.png>]
-<pictures/png/pidtdcgaus.png, id=139, 538.01pt x 495.8525pt>
+[40 <./pictures/png/bananacali.png> <./pictures/png/bananagaus.png>]
+<pictures/png/pidtdcgaus.png, id=182, 538.01pt x 495.8525pt>
 File: pictures/png/pidtdcgaus.png Graphic file (type png)
 
 <use pictures/png/pidtdcgaus.png>
 Package pdftex.def Info: pictures/png/pidtdcgaus.png used on input line 145.
 (pdftex.def)             Requested size: 215.20018pt x 198.33748pt.
 
-<pictures/png/pidtdcgaus16.png, id=140, 538.01pt x 481.8pt>
+<pictures/png/pidtdcgaus16.png, id=183, 538.01pt x 481.8pt>
 File: pictures/png/pidtdcgaus16.png Graphic file (type png)
 
 <use pictures/png/pidtdcgaus16.png>
 Package pdftex.def Info: pictures/png/pidtdcgaus16.png used on input line 153.
 (pdftex.def)             Requested size: 215.20018pt x 192.71658pt.
- [28 <./pictures/png/pidtdcgaus.png>]
-<pictures/png/pidtdcoffset.png, id=145, 536.0025pt x 320.19624pt>
+ [41 <./pictures/png/pidtdcgaus.png>]
+<pictures/png/pidtdcoffset.png, id=187, 536.0025pt x 320.19624pt>
 File: pictures/png/pidtdcoffset.png Graphic file (type png)
 
 <use pictures/png/pidtdcoffset.png>
 Package pdftex.def Info: pictures/png/pidtdcoffset.png used on input line 177.
 (pdftex.def)             Requested size: 294.80228pt x 176.10846pt.
- [29 <./pictures/png/pidtdcgaus16.png> <./pictures/png/pidtdcoffset.png>]) [30]
+ [42 <./pictures/png/pidtdcgaus16.png> <./pictures/png/pidtdcoffset.png>]) [43]
  (./thesis.bbl
 Underfull \hbox (badness 1867) in paragraph at lines 10--14
 []\OT1/cmr/m/n/10.95 J. R. M. An-nand.  \OT1/cmr/m/it/10.95 Data Anal-y-sis wit
@@ -516,38 +601,42 @@ hin an Ac-qu-Root Frame-work. nu-
 Missing character: There is no ï in font cmr10!
 Missing character: There is no ¿ in font cmr10!
 Missing character: There is no ½ in font cmr10!
-[31
+[44
 
 
-]) [32] (./thesis.aux (./title.aux) (./abstract.aux) (./chapter3.aux)
-(./chapter4.aux)) ) 
+]) [45] (./thesis.aux (./title.aux) (./abstract.aux) (./chapter2.aux)
+(./chapter3.aux) (./chapter4.aux))
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 2776 strings out of 495028
- 38246 string characters out of 6181497
- 96057 words of memory out of 5000000
- 5888 multiletter control sequences out of 15000+600000
+ 2817 strings out of 495028
+ 38709 string characters out of 6181497
+ 97454 words of memory out of 5000000
+ 5921 multiletter control sequences out of 15000+600000
  11966 words of font info for 42 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  42i,11n,40p,1424b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex
-10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (35 pages, 2773411 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on thesis.pdf (48 pages, 2849060 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
+ 257 PDF objects out of 1000 (max. 8388607)
+ 161 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 111 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
