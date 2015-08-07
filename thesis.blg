@@ -3,86 +3,93 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: thesis.aux
 A level-1 auxiliary file: title.aux
 A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
 The style file: plain.bst
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "dudek"
-Warning--I didn't find a database entry for "martin"
-Warning--I didn't find a database entry for "prop"
-Warning--I didn't find a database entry for "jo"
-Warning--I didn't find a database entry for "walker"
-Warning--I didn't find a database entry for "bertulani"
-Warning--I didn't find a database entry for "bjorken"
-Warning--I didn't find a database entry for "chew"
-Warning--I didn't find a database entry for "krusche"
-Warning--I didn't find a database entry for "nagl"
-Warning--I didn't find a database entry for "davidson"
-Warning--I didn't find a database entry for "maid"
-Warning--I didn't find a database entry for "said"
-Warning--I didn't find a database entry for "drechsel"
-Warning--I didn't find a database entry for "pda"
-Warning--I didn't find a database entry for "arndt"
+Warning--I didn't find a database entry for "pike"
 Warning--to sort, need author or key in Proposal
-Warning--empty school in jalbert
+Warning--to sort, need author, editor, or key in maid
+Warning--to sort, need author, editor, or key in said
+Warning--to sort, need author, editor, or key in a2mami
+Warning--empty author and editor in said
+Warning--empty publisher in said
+Warning--empty year in said
+Warning--empty author and editor in maid
+Warning--empty publisher in maid
+Warning--empty year in maid
+Warning--empty author and editor in a2mami
+Warning--empty publisher in a2mami
 Warning--empty title in amsler
 Warning--empty publisher in john
+Warning--empty title in krusche
+Warning--empty publisher in root
+Warning--empty year in root
+Warning--empty title in davidson
+Warning--empty title in devires
 Warning--empty title in dehn
+Warning--empty title in drechsel
 Warning--empty title in starostin
 Warning--empty title in audit
+Warning--empty title in pda
 Warning--empty publisher in liewen
 Warning--empty title in centelles
 Warning--empty title in oreglia
+Warning--empty title in arndt
+Warning--empty title in chew
 Warning--empty title in sjhall
-Warning--empty title in mcgeorge
 Warning--empty year in knoll
-Warning--empty school in krambrich
+Warning--empty publisher in krambrich
 Warning--empty year in krambrich
+Warning--empty title in mcgeorge
 Warning--empty title in duncan
 Warning--empty title in novotny
 Warning--empty title in piek
+Warning--empty title in roca
 Warning--empty title in lschmitt
 Warning--empty title in marcu
-You've used 30 entries,
+Warning--empty title in walker
+You've used 47 entries,
             2118 wiz_defined-function locations,
-            641 strings with 6260 characters,
-and the built_in function-call counts, 8066 in all, are:
-= -- 775
-> -- 250
-< -- 13
-+ -- 104
-- -- 74
-* -- 405
-:= -- 1289
-add.period$ -- 73
-call.type$ -- 30
-change.case$ -- 104
+            688 strings with 7317 characters,
+and the built_in function-call counts, 12117 in all, are:
+= -- 1129
+> -- 397
+< -- 15
++ -- 166
+- -- 118
+* -- 641
+:= -- 1948
+add.period$ -- 110
+call.type$ -- 47
+change.case$ -- 158
 chr.to.int$ -- 0
-cite$ -- 50
-duplicate$ -- 425
-empty$ -- 697
-format.name$ -- 74
-if$ -- 1778
+cite$ -- 88
+duplicate$ -- 654
+empty$ -- 1072
+format.name$ -- 118
+if$ -- 2639
 int.to.chr$ -- 0
-int.to.str$ -- 30
-missing$ -- 33
-newline$ -- 136
-num.names$ -- 58
-pop$ -- 214
+int.to.str$ -- 47
+missing$ -- 63
+newline$ -- 207
+num.names$ -- 86
+pop$ -- 355
 preamble$ -- 1
-purify$ -- 97
+purify$ -- 153
 quote$ -- 0
-skip$ -- 326
+skip$ -- 455
 stack$ -- 0
-substring$ -- 370
-swap$ -- 137
-text.length$ -- 13
+substring$ -- 496
+swap$ -- 176
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 104
-warning$ -- 20
-while$ -- 77
-width$ -- 32
-write$ -- 277
-(There were 36 warnings)
+type$ -- 148
+warning$ -- 41
+while$ -- 108
+width$ -- 49
+write$ -- 417
+(There were 42 warnings)

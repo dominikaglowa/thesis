@@ -16,13 +16,13 @@
 
 \indent Photons entering Crystal Ball deposit their energy in the NaI crystals via electromagnetic showers which hit multiple crystals in each event.These groups of hit crystals are called clusters. The accurate analysis of the CB events required an algorithm which identifies the clusters and recovers information about the incident photon's energy and position from the energy deposited in the crystals within a cluster.
 
-\indent First step in the analysis is to identify a crystal with the highest energy deposit, central crystal of the cluster, and it's 12 closest neighbours (Fig. \ref{cbcluster}). A hit in this central crystal provides the timing information for the event. The energies of the neighbouring crystals are scanned and if their energies are greater than the threshold energy of around 2MeV they are added to the cluster. Only 12 closest neighbours of the central crystal are considered in the algorithm because it has been confirmed that in 98\% of the cases the energy deposit of the shower triggers only 13 crystals \cite{claire}. Then the total energy of the cluster is obtained as:
+\indent First step in the analysis is to identify a crystal with the highest energy deposit, central crystal of the cluster, and it's 12 closest neighbors (Fig. \ref{cbcluster}). A hit in this central crystal provides the timing information for the event. The energies of the neighboring crystals are scanned and if their energies are greater than the threshold energy of around 2MeV they are added to the cluster. Only 12 closest neighbors of the central crystal are considered in the algorithm because it has been confirmed that in 98\% of the cases the energy deposit of the shower triggers only 13 crystals \cite{claire}. Then the total energy of the cluster is obtained as:
 
 \begin{equation}
 E_{sum}=\Sigma_{k}E_{i}
 \end{equation}
 
-where, $E_{i}$ is the energy of the ith crystal in the cluster of k detector elements. Then the condition of the the total energy of the cluster being greater than 20MeV  is applied to suppress the effects of the background.
+where, $E_{i}$ is the energy of the i-th crystal in the cluster of k detector elements. Then the condition of the the total energy of the cluster being greater than 20MeV  is applied to suppress the effects of the background.
 
 \indent The position of the hit is calculated as the weighted mean position given by the below equation:
 
@@ -30,23 +30,23 @@ where, $E_{i}$ is the energy of the ith crystal in the cluster of k detector ele
 r_{mean}=\frac{\Sigma_{k}\sqrt{E_{i}r_{i}}}{\Sigma_{k}\sqrt{E_{i}}}
 \end{equation}
 
-where, $E_{i}$ is the energy deposited in the ith crystal and $r_{i}$ is the position of the ith crystal in the cluster.
+where, $E_{i}$ is the energy deposited in the i-th crystal and $r_{i}$ is the position of the i-th crystal in the cluster.
 
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.55]{pictures/png/cbcluster.png}
-\caption{Schematic representation of a NaI cluster. The central triangle, shaded in red, depicts a triangular face of the NaI crystal and is the logical centre of the cluster. The other 12 triangles are its closest neighbours.}
+\caption{Schematic representation of a NaI cluster. The central triangle, shaded in red, depicts a triangular face of the NaI crystal and is the logical center of the cluster. The other 12 triangles are its closest neighbors.}
 \label{cbcluster}
 \end{center}
 \end{figure}
 
 \subsection{Energy Calibration}
 
-\indent Crystal Ball energy calibrations have been carried out by the colleagues from UCLA and Johanes Gutenberg Universitaet in Mainz \cite{marc}. The energy calibration of the Crystal Ball was performed in three steps; a low energy calibration - mainly important for the acquisition system was obtained, then a high energy calibration has been performed, and in the end, an energy scale factor has been applied to account for crystal thresholds and clustering algorythms.
+\indent Crystal Ball energy calibrations have been carried out by the colleagues from UCLA and Johanes Gutenberg Universitaet in Mainz \cite{marc}. The energy calibration of the Crystal Ball was performed in three steps; a low energy calibration - mainly important for the acquisition system was obtained, then a high energy calibration has been performed, and in the end, an energy scale factor has been applied to account for crystal thresholds and clustering algorithms.
 
 \subsubsection{Low energy calibration}
 
-\indent In this first step of the CB energy calibration, an $^{241}$Am/$^{9}$Be source was placed in the centre of the Crystal Ball \cite{marc}. The $\alpha$ decay of americium, and a subsequent capture of these particles by beryllium, triggers a series of reactions resulting in the excited state of $^{12}$C which decays to a ground state and emits a 4.438MeV photon in the process. This photon energy deposit in the NaI crystals has been used to adjust the gains of all PMTs, so that the detected peak was in the same position in the ADC spectra for all the detector elements.
+\indent In this first step of the CB energy calibration, an $^{241}$Am/$^{9}$Be source was placed in the center of the Crystal Ball \cite{marc}. The $\alpha$ decay of americium, and a subsequent capture of these particles by beryllium, triggers a series of reactions resulting in the excited state of $^{12}$C which decays to a ground state and emits a 4.438MeV photon in the process. This photon energy deposit in the NaI crystals has been used to adjust the gains of all PMTs, so that the detected peak was in the same position in the ADC spectra for all the detector elements.
 
 \subsubsection{High energy calibration}
 
@@ -55,7 +55,7 @@ where, $E_{i}$ is the energy deposited in the ith crystal and $r_{i}$ is the pos
 \begin{itemize}
 \item no less than 70\% of the detected photon energy had to be deposited in a single NaI crystal. This criterium was decided upon to ensure the deposit in a single crystal dominated the cluster.
 \item in order to ensure that the photons used for the calibration were of similar energy, the condition of having the energy difference between two photon clusters being less than 35\% of the total energy have been set up.
-\item the tagged photon energy had to be less than 180MeV. This restriction constrained the energy range of the decay photons between 40MeV and 125MeV. Such energy cut favoured large opening angles between the photons, resulting in an even angular distributions in the lab.
+\item the tagged photon energy had to be less than 180MeV. This restriction constrained the energy range of the decay photons between 40MeV and 125MeV. Such energy cut favored large opening angles between the photons, resulting in an even angular distributions in the lab.
 \end{itemize}
 
 \indent The invariant mass of $\pi^{0}$ has been reconstructed from the two photon decay, and a Gaussian function has been fitted. The mean of the fit, corresponding to M$_{\gamma\gamma}$ , has been compared to the mass of $\pi^{0}$. With this information a new gain factor, $G_{new}$, was obtained according to the below equation:
@@ -156,22 +156,6 @@ where, T is the measured time, $a_{0}$ is the discriminator's voltage, r is the 
 \end{center}
 \end{figure}
 
-%\begin{figure}[H]
-%\begin{centre}
-%\includegraphics[scale=0.55]{pidtdcgaus.png}
-%\caption{Gaussian fit to PID-element 14.}
-%\label{pidtdcoffset}
-%\end{center}
-%\end{figure}
-
-%\begin{figure}[H]
-%\begin{centre}
-%\includegraphics[scale=0.55]{pidtdcgaus16.png}
-%\caption{Gaussian fit to PID-element 16. The TDC spectrum of the malfunctioning PID element.}
-%\label{pidtdcoffset16}
-%\end{center}
-%\end{figure}
-
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.55]{pictures/png/pidtdcoffset.png}
@@ -182,7 +166,7 @@ where, T is the measured time, $a_{0}$ is the discriminator's voltage, r is the 
 
 \section{TAPS Calibration}
 
-\indent The calibration of the TAPS BaF$_{2}$ crystals employed cosmic rays using the mean deposited energy of the minimum ionising muons equal to 37.7MeV \cite{roebig}. For each of the BaF$_{2}$ crystals' PMTs the position of the energy peak has been adjusted so it was at the same ADC position for all detector elements, and the channel number corresponding to the mean peak position was determined.
+\indent The calibration of the TAPS BaF$_{2}$ crystals employed cosmic rays using the mean deposited energy of the minimum ionizing muons equal to 37.7MeV \cite{roebig}. For each of the BaF$_{2}$ crystals' PMTs the position of the energy peak has been adjusted so it was at the same ADC position for all detector elements, and the channel number corresponding to the mean peak position was determined.
 
 \indent Using a similar technique to that employed in the CB calibrations, the correction for the gain was obtained. However, because detection of two photons from the $\pi^{0}$ in TAPS is very rare, the events having one photon detected in TAPS and one in CB were chosen. Detailed procedure of this calibration can be found in \cite{lemmer}.
 

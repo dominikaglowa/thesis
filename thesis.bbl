@@ -1,8 +1,18 @@
 \begin{thebibliography}{10}
 
+\bibitem{said}
+{\em CNS Data Analysis Center, http://gwdac.phys.gwu.edu}.
+
+\bibitem{maid}
+{\em The MAID Homepage, http://www.kph.uni-mainz.de/MAID}.
+
 \bibitem{Proposal}
-Proposal for an experiment: �neutron skin evolution in isotopes of tin and
-  calcium from coherent pion photoproduction�, 2009.
+Proposal for an experiment: ‘neutron skin evolution in isotopes of tin and
+  calcium from coherent pion photoproduction’, 2009.
+
+\bibitem{a2mami}
+{\em A2 MAMI website, http://wwwa2.kph.uni-mainz.de}.
+\newblock 2015.
 
 \bibitem{prex}
 S.~Abrahamyan and et~al.
@@ -14,7 +24,7 @@ S.~Abrahamyan and et~al.
 J.~Albert.
 \newblock {\em Test Measurements for the Crystal Ball Detector at MAMI, PhD
   thesis}.
-\newblock PhD thesis, 2003.
+\newblock ?, 2003.
 
 \bibitem{amsler}
 C.~Amsler and et~al.
@@ -26,13 +36,46 @@ J.~R.~M. Annand.
   nuclear.gla.ac.uk/~acqusys/doc/AcquRoot.11.08.pd}.
 \newblock 2008.
 
+\bibitem{krusche}
+S.~Schamand B.~Krusche.
+\newblock {\em Prog. Part. Nucl. Phys. 51, 399}, 2003.
+
+\bibitem{bertulani}
+C.~Bertulani.
+\newblock {\em Nuclear Physics in a Nutshell}.
+\newblock Princeton University Press, 2007.
+
+\bibitem{bjorken}
+J.~Bjorken and S.~Drell.
+\newblock {\em Relativistic Quantum Mechanics}.
+\newblock McGraw Hill, New York, 1964.
+
 \bibitem{root}
 R.~Brun.
-\newblock Root manual root.cern.ch, 2015.
+\newblock {\em Root manual, root.cern.ch}.
+
+\bibitem{davidson}
+R.~Davidson.
+\newblock {\em Czechoslovak Journal of Physics 44, 365}, 1994.
+
+\bibitem{devires}
+H.~de~Vires and et~al.
+\newblock {\em At. Nuc. Dat. Nuc. Dat. Tab. 60}, pages 177--285, 1995.
 
 \bibitem{dehn}
 M.~Dehn and et~al.
-\newblock {\em Eur. Phys. J. Special Topics 198}, page 19�47, 2011.
+\newblock {\em Eur. Phys. J. Special Topics 198}, page 19–47, 2011.
+
+\bibitem{drechsel}
+D.~Drechsel.
+\newblock {\em European Physical Journal A 34, 69}, 2007.
+
+\bibitem{dudek}
+J.~Dudek.
+\newblock {\em Meson and baryon spectroscopy from Lattice QCD}.
+\newblock
+  http://irfu.cea.fr/Documentation/Conferences/webCALS12/Talks/March9/dudek.pdf,
+  2011.
 
 \bibitem{starostin}
 A.~Starostin et~al.
@@ -42,11 +85,21 @@ A.~Starostin et~al.
 Audit et~al.
 \newblock {\em Nuc. Inst. Meth. A301}, pages 473--481, 1991.
 
+\bibitem{fattoyev}
+F.~J.~Fattoyev et~al.
+\newblock Pure neytron matter constraints on the relativistic mean-field and
+  skyrme-hartree-fock models.
+\newblock {\em arXiv:1205.0857v1}, 2012.
+
 \bibitem{gbruan}
 G.~Bruan et~al.
 \newblock Tdc chip and readout driver developments for compass and lhc
   experiments.
 \newblock {\em arXiv:hep-ex}, 1998.
+
+\bibitem{pda}
+J.~Beringer et~al.
+\newblock {\em The Review of Particle Physics, Phys. Rev. D86}, 2012.
 
 \bibitem{liewen}
 Lie-Wen~Chen et~al.
@@ -62,11 +115,13 @@ M.~Centelles et~al.
 M.~Oreglia et~al.
 \newblock {\em Phys. Rev. D. 25}, page~9, 1982.
 
-\bibitem{fattoyev}
-F.~J. Fattoyev and et~al.
-\newblock Pure neytron matter constraints on the relativistic mean-field and
-  skyrme-hartree-fock models.
-\newblock {\em arXiv:1205.0857v1}, 2012.
+\bibitem{arndt}
+R.~Arndt et~al.
+\newblock {\em Physical Review C 42, 1853}, 1990.
+
+\bibitem{chew}
+F.~E.~Low G.~F.~Chew, M. L.~Goldberger and Y.~Nambu.
+\newblock {\em Phys. Rev., 106:1345-1355}, 1957.
 
 \bibitem{gessler}
 T.~Gesslerr.
@@ -77,10 +132,6 @@ T.~Gesslerr.
 S.J. Hall, G.J. Miller, R.~Beck, and P.~Jennewein.
 \newblock {\em Nucl. Instrum. Methods A 368}, page 698, 1996.
 
-\bibitem{mcgeorge}
-et~al. J~C.~McGeorge, J. D.~Kellie.
-\newblock {\em Eur. Phys. J. A, 37}, pages 129--137, 2008.
-
 \bibitem{knoll}
 G.F. Knoll.
 \newblock {\em Radiation Detection and Measurement}.
@@ -89,16 +140,34 @@ G.F. Knoll.
 \bibitem{krambrich}
 D.~Krambrich.
 \newblock {\em University of Mainz, PhD thesis}.
-\newblock PhD thesis.
 
 \bibitem{lemmer}
 B.~Lemmer.
 \newblock {\em Diploma thesis}.
 \newblock Universitaet, Giessen, 2007.
 
+\bibitem{martin}
+B.~Martin and G.~Shaw.
+\newblock {\em Particle Physics}.
+\newblock Wiley and sons, 2008.
+
+\bibitem{jo}
+J.~McAndrew.
+\newblock {\em PhD thesis}.
+\newblock University of Edinburgh, 2011.
+
+\bibitem{mcgeorge}
+J~C. McGeorge and J.~D.~Kellie et~al.
+\newblock {\em Eur. Phys. J. A, 37}, pages 129--137, 2008.
+
 \bibitem{duncan}
 D.~Middleton.
 \newblock {\em Mainz a2 tagger calibrations a2 internal report.}, 2011.
+
+\bibitem{nagl}
+V.~D.~A. Nagl and H.~Uberall.
+\newblock {\em Nuclear Pion Photoproduction}.
+\newblock Springer-Verlag, 1991.
 
 \bibitem{novotny}
 R.~Novotny.
@@ -107,6 +176,10 @@ R.~Novotny.
 \bibitem{piek}
 J.~Piekarewicz and S.~Pieper.
 \newblock {\em Nucl. Phys. A 778}, page~10, 2006.
+
+\bibitem{roca}
+X.~Roca-Maza, M.~Centelles, X.~Vinas, and M.~Warda.
+\newblock {\em Phys. Rev. Lett. 106}, page 252501, 2011.
 
 \bibitem{roebig}
 M.~E. Roebig.
@@ -136,8 +209,8 @@ M.~Unverzagt.
 M.~Unverzagt.
 \newblock {\em Nucl.Phys.Proc.Suppl. 198}, pages 174--181, 2010.
 
-\bibitem{a2mami}
-A2~MAMI website.
-\newblock http://wwwa2.kph.uni-mainz.de, 2015.
+\bibitem{walker}
+R.~Walker.
+\newblock {\em Phys. Rev. 182, 1729}, 1969.
 
 \end{thebibliography}
