@@ -2,13 +2,33 @@
 
 \indent This chapter addresses the calibrations of all the detectors. The process involved converting raw signals from the detectors into real physical quantities allowing for the energy, position and timing corrections to be determined and applied in the subsequent analysis.
 
-\section{Tagger Energy Calibrations}
+\section{Tagger Calibrations}
+
+\subsection{Energy Calibration}
 
 \indent The tagger energy calibration determines the relation between tagger channel number and electron energy. The calibrations were carried out by the colleagues at the University of Glasgow \cite{mcgeorge}.
 
 \indent In order to make a tagger energy calibration, an incident MAMI electron beam of an energy of interest is bent in the magnetic field; for a 855MeV beam, field of ~1.025T is used. Then the magnetic field was varied in small steps to guide the beam through the focal plane and an energy measurement was taken at each step. Six different electron beam energies were used for the calibration, they ranged from 195.22MeV to 705.26 MeV, with the uncertainty of 0.16MeV; the uncertainty in the magnetic field was 0.01mT \cite{duncan}.
 
 \indent The varying magnetic field required to sweep the beam across a given channel allowed for the determination of a position of a  hit in a FP detector with an accuracy of 0.05 channel width. Finally, in order to relate the the FP channel number to the electron energy a linear interpolation between different energies was used.
+
+\subsection{Random Subtraction}
+
+\indent Some of the hits in the tagger do not correspond to the photon-triggered reactions in the target. Those hits contribute to the background due to the bremsstralung electrons that produced photons, which passed the target without any interactions, Moeller scattering in the radiator (non-radiative reactions) and photons which were removed from the flux by the collimator. They are known as $random$ hits, in contrast to the $prompt$ hits, which correspond to the photons that triggered reactions in the target. In order to discern which tagger hits should be classified as prompt and which as random the timing analysis of the events have been carried out.
+
+\indent The time recorded by the tagger TDCs for each element in the focal plane is a measure of the time difference (time taken by the photon to to reach the target plus the time taken by the photon-induced reaction products to satisfy the experimental trigger) between the hit in the tagger detector elements and the experimental trigger (Fig. \ref{taggertime}). The hits in the tagger that correspond to the photons triggering reactions in the target form a prompt peak in the tagger time spectra. The peak is a reflection of the fact that for prompt hits will have a roughly constant time difference. On the other hand, the electron hits which did not correspond to the photons triggering the reactions within the target result in a flat background of random hits in the time spectra.
+
+\begin{figure}[H]
+\begin{center}
+\includegraphics[scale=0.7]{pictures/pdf/taggertime.pdf}
+\caption{Time spectrum of the hits in the tagger. The plot on the left shows the full time spectrum and the plot on the right shows the cuts defined for the prompt and random regions.}
+\label{taggertime}
+\end{center}
+\end{figure}
+
+\indent Nevertheless, it is not possible to categorise hits as prompt or random for an individual event because there is still some random contribution to the prompt peak. In order to resolve this, a large number of events have been recorded and an appropriately weighted (to account for the different size of prompt and random regions) sample of the random hits have been subtracted from the prompt hits.
+
+\indent It must be noted that the timing cut used to define prompt and random regions have been done after tagger timing alignment have been done. Only then all the tagger detector elements had the prompt peaks aligned and the time cut could have been applied.
 
 \section{Crystal Ball Calibrations}
 
@@ -19,7 +39,7 @@
 \indent First step in the analysis is to identify a crystal with the highest energy deposit, central crystal of the cluster, and it's 12 closest neighbors (Fig. \ref{cbcluster}). A hit in this central crystal provides the timing information for the event. The energies of the neighboring crystals are scanned and if their energies are greater than the threshold energy of around 2MeV they are added to the cluster. Only 12 closest neighbors of the central crystal are considered in the algorithm because it has been confirmed that in 98\% of the cases the energy deposit of the shower triggers only 13 crystals \cite{claire}. Then the total energy of the cluster is obtained as:
 
 \begin{equation}
-E_{sum}=\Sigma_{k}E_{i}
+E_{sum}=\sum_{k}E_{i}
 \end{equation}
 
 where, $E_{i}$ is the energy of the i-th crystal in the cluster of k detector elements. Then the condition of the the total energy of the cluster being greater than 20MeV  is applied to suppress the effects of the background.
@@ -27,7 +47,7 @@ where, $E_{i}$ is the energy of the i-th crystal in the cluster of k detector el
 \indent The position of the hit is calculated as the weighted mean position given by the below equation:
 
 \begin{equation}
-r_{mean}=\frac{\Sigma_{k}\sqrt{E_{i}r_{i}}}{\Sigma_{k}\sqrt{E_{i}}}
+r_{mean}=\frac{\sum_{k}\sqrt{E_{i}r_{i}}}{\sum_{k}\sqrt{E_{i}}}
 \end{equation}
 
 where, $E_{i}$ is the energy deposited in the i-th crystal and $r_{i}$ is the position of the i-th crystal in the cluster.
@@ -50,7 +70,7 @@ where, $E_{i}$ is the energy deposited in the i-th crystal and $r_{i}$ is the po
 
 \subsubsection{High energy calibration}
 
-\indent The photons produced in meson decay have energies much higher than photons used in the low energy calibration, therefore the calibration for higher energy photons is also required. The $\pi^{0}->\gamma\gamma$ reaction have been used as a source of such photons. The invariant mass, M$_{\gamma\gamma}$, of two photons detected in the CB was reconstructed from the information on the photons measured energy and momentum and only the events with M$_{\gamma\gamma}$ within the mass of $\pi^{0}$ were selected, and the following selection cuts have been applied:
+\indent The photons produced in meson decay have energies much higher than photons used in the low energy calibration, therefore the calibration for higher energy photons is also required. The $\pi^{0}\rightarrow\gamma\gamma$ reaction have been used as a source of such photons. The invariant mass, M$_{\gamma\gamma}$, of two photons detected in the CB was reconstructed from the information on the photons measured energy and momentum and only the events with M$_{\gamma\gamma}$ within the mass of $\pi^{0}$ were selected, and the following selection cuts have been applied:
 
 \begin{itemize}
 \item no less than 70\% of the detected photon energy had to be deposited in a single NaI crystal. This criterium was decided upon to ensure the deposit in a single crystal dominated the cluster.
@@ -61,7 +81,7 @@ where, $E_{i}$ is the energy deposited in the i-th crystal and $r_{i}$ is the po
 \indent The invariant mass of $\pi^{0}$ has been reconstructed from the two photon decay, and a Gaussian function has been fitted. The mean of the fit, corresponding to M$_{\gamma\gamma}$ , has been compared to the mass of $\pi^{0}$. With this information a new gain factor, $G_{new}$, was obtained according to the below equation:
 
 \begin{equation}
-G_{new}=\frac{M_{\gamma\gamma}}{M_{\pi^{0}}}G_{old} [\frac{MeV}{channel}]
+G_{new}=\frac{M_{\gamma\gamma}}{M_{\pi^{0}}}G_{old} \Big[\frac{MeV}{channel}\Big]
 \end{equation}
 
 where, $G_{old}$ is the gain factor used previously. Because the detected energy of the photon cluster depended both, on the central crystal and all the other crystals in the cluster a single set of calculation to obtain the new gain was not enough. Several iterations were required for M$_{\gamma\gamma}$ to correspond to M$_{\pi^{0}}$.
@@ -119,7 +139,7 @@ where, T is the measured time, $a_{0}$ is the discriminator's voltage, r is the 
 \begin{figure}[H]
 \begin{center}
 \includegraphics[scale=0.6]{pictures/png/bananacali.png}
-\caption{$\Delta$E-E plots of PID vs CB energy deposits. Example10MeV energy bin shaded in red.}
+\caption{$\Delta$E-E plots of PID vs CB energy deposits. Example, 10MeV energy bin shaded in red.}
 \label{bananacali}
 \end{center}
 \end{figure}
@@ -172,7 +192,6 @@ where, T is the measured time, $a_{0}$ is the discriminator's voltage, r is the 
 
 \indent The procedure to calibrate plastic Veto was similar to the one used to calibrate PID. The pedestal positions were obtained from the raw ADC spectra and the gain was determined by comparing the experimental mean position of the proton peak in the Veto to the simulated data. Details of this method can be found in reference \cite{gessler}
 
-\section{Target Position Correction}
 
 
    

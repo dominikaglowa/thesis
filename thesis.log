@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  6 AUG 2015 10:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.6.10)  25 AUG 2015 19:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -258,7 +258,8 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
 No file macros.tex.
 ** Make sure \initfloatingfigs being called immediately
    after \begin{document} !! ** (./thesis.aux (./title.aux) (./abstract.aux)
-(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux))
+(./chapter1.aux) (./chapter2.aux) (./chapter3.aux) (./chapter4.aux)
+(./chapter5.aux) (./chapter6.aux))
 \openout1 = `thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -333,11 +334,7 @@ Chapter 1.
 
 
 
-]
-
-LaTeX Warning: Citation `pike' on page 2 undefined on input line 12.
-
-[2]) [3]
+] [2]) [3]
 \openout2 = `chapter2.aux'.
 
  (./chapter2.tex
@@ -351,213 +348,534 @@ File: pictures/png/tiniso.png Graphic file (type png)
 
 <use pictures/png/tiniso.png>
 Package pdftex.def Info: pictures/png/tiniso.png used on input line 68.
-(pdftex.def)             Requested size: 222.83421pt x 187.90344pt.
-
-<pictures/png/photorea.png, id=47, 228.855pt x 163.61125pt>
+(pdftex.def)             Requested size: 297.1104pt x 250.53633pt.
+ [7]
+<pictures/png/photorea.png, id=50, 228.855pt x 163.61125pt>
 File: pictures/png/photorea.png Graphic file (type png)
 
 <use pictures/png/photorea.png>
 Package pdftex.def Info: pictures/png/photorea.png used on input line 80.
-(pdftex.def)             Requested size: 137.31404pt x 98.1675pt.
- [7 <./pictures/png/tiniso.png>]
-<pictures/png/mandelstam.png, id=51, 526.96875pt x 170.6375pt>
+(pdftex.def)             Requested size: 183.08423pt x 130.88916pt.
+ [8 <./pictures/png/tiniso.png>]
+<pictures/png/mandelstam.png, id=54, 526.96875pt x 170.6375pt>
 File: pictures/png/mandelstam.png Graphic file (type png)
 
 <use pictures/png/mandelstam.png>
 Package pdftex.def Info: pictures/png/mandelstam.png used on input line 90.
-(pdftex.def)             Requested size: 316.18369pt x 102.38327pt.
- [8 <./pictures/png/photorea.png> <./pictures/png/mandelstam.png>] [9] [10] [11
-] [12] [13] [14] [15]
-<pictures/png/antiproton.png, id=80, 388.45125pt x 330.23375pt>
+(pdftex.def)             Requested size: 368.8756pt x 119.44542pt.
+ [9 <./pictures/png/photorea.png> <./pictures/png/mandelstam.png>] [10] [11] [1
+2] [13] [14] [15] [16] [17]
+<pictures/png/skinmass.png, id=87, 781.92125pt x 437.635pt>
+File: pictures/png/skinmass.png Graphic file (type png)
+
+<use pictures/png/skinmass.png>
+Package pdftex.def Info: pictures/png/skinmass.png used on input line 354.
+(pdftex.def)             Requested size: 430.05801pt x 240.69998pt.
+
+Overfull \hbox (17.49306pt too wide) in paragraph at lines 354--355
+ [] 
+ []
+
+[18] [19 <./pictures/png/skinmass.png>] [20]
+<pictures/png/antiproton.png, id=97, 388.45125pt x 330.23375pt>
 File: pictures/png/antiproton.png Graphic file (type png)
 
 <use pictures/png/antiproton.png>
-Package pdftex.def Info: pictures/png/antiproton.png used on input line 344.
-(pdftex.def)             Requested size: 233.07254pt x 198.14177pt.
- [16]) [17 <./pictures/png/antiproton.png>]
+Package pdftex.def Info: pictures/png/antiproton.png used on input line 402.
+(pdftex.def)             Requested size: 271.914pt x 231.16203pt.
+ [21]) [22 <./pictures/png/antiproton.png>]
 \openout2 = `chapter3.aux'.
 
 
 (./chapter3.tex
 Chapter 3.
-<pictures/png/a2hallsetup.png, id=88, 724.1454pt x 194.6472pt>
+<pictures/png/a2hallsetup.png, id=105, 724.1454pt x 194.6472pt>
 File: pictures/png/a2hallsetup.png Graphic file (type png)
 
 <use pictures/png/a2hallsetup.png>
 Package pdftex.def Info: pictures/png/a2hallsetup.png used on input line 15.
 (pdftex.def)             Requested size: 398.2812pt x 107.05627pt.
- [18
+ [23
 
 
 
-]
-<pictures/png/rfm.png, id=93, 556.0775pt x 269.005pt>
+] [24 <./pictures/png/a2hallsetup.png>]
+<pictures/png/rfm.png, id=114, 556.0775pt x 269.005pt>
 File: pictures/png/rfm.png Graphic file (type png)
 
 <use pictures/png/rfm.png>
-Package pdftex.def Info: pictures/png/rfm.png used on input line 31.
-(pdftex.def)             Requested size: 305.84357pt x 147.9532pt.
- [19 <./pictures/png/a2hallsetup.png>]
-<pictures/png/HDSM.png, id=98, 1402.23875pt x 837.1275pt>
+Package pdftex.def Info: pictures/png/rfm.png used on input line 32.
+(pdftex.def)             Requested size: 361.44609pt x 174.85117pt.
+ [25 <./pictures/png/rfm.png>]
+<pictures/png/HDSM.png, id=119, 1402.23875pt x 837.1275pt>
 File: pictures/png/HDSM.png Graphic file (type png)
 
 <use pictures/png/HDSM.png>
-Package pdftex.def Info: pictures/png/HDSM.png used on input line 41.
+Package pdftex.def Info: pictures/png/HDSM.png used on input line 42.
 (pdftex.def)             Requested size: 350.55882pt x 209.28136pt.
- [20 <./pictures/png/rfm.png>]
-<pictures/jpg/mamifloor.jpg, id=103, 765.86125pt x 661.47125pt>
+
+<pictures/jpg/mamifloor.jpg, id=120, 765.86125pt x 661.47125pt>
 File: pictures/jpg/mamifloor.jpg Graphic file (type jpg)
 
 <use pictures/jpg/mamifloor.jpg>
-Package pdftex.def Info: pictures/jpg/mamifloor.jpg used on input line 51.
+Package pdftex.def Info: pictures/jpg/mamifloor.jpg used on input line 52.
 (pdftex.def)             Requested size: 382.92969pt x 330.73482pt.
- [21 <./pictures/png/HDSM.png>] [22 <./pictures/jpg/mamifloor.jpg>]
-<pictures/png/GlaTagger.png, id=112, 367.3725pt x 311.1625pt>
+ [26 <./pictures/png/HDSM.png>] [27 <./pictures/jpg/mamifloor.jpg>]
+<pictures/png/GlaTagger.png, id=128, 367.3725pt x 311.1625pt>
 File: pictures/png/GlaTagger.png Graphic file (type png)
 
 <use pictures/png/GlaTagger.png>
-Package pdftex.def Info: pictures/png/GlaTagger.png used on input line 69.
-(pdftex.def)             Requested size: 293.89838pt x 248.93034pt.
- [23 <./pictures/png/GlaTagger.png (PNG copy)>] [24] <pictures/png/naigeom.png,
- id=119, 577.15625pt x 338.26375pt>
+Package pdftex.def Info: pictures/png/GlaTagger.png used on input line 70.
+(pdftex.def)             Requested size: 330.63217pt x 280.04366pt.
+ [28 <./pictures/png/GlaTagger.png (PNG copy)>] [29] <pictures/png/naigeom.png,
+ id=136, 577.15625pt x 338.26375pt>
 File: pictures/png/naigeom.png Graphic file (type png)
 
 <use pictures/png/naigeom.png>
-Package pdftex.def Info: pictures/png/naigeom.png used on input line 95.
+Package pdftex.def Info: pictures/png/naigeom.png used on input line 96.
 (pdftex.def)             Requested size: 404.0066pt x 236.78299pt.
- [25 <./pictures/png/naigeom.png>] [26]
-<pictures/png/mwpc.png, id=126, 247.92625pt x 143.53625pt>
+ [30] [31 <./pictures/png/naigeom.png>] [32]
+<pictures/png/mwpc.png, id=147, 247.92625pt x 143.53625pt>
 File: pictures/png/mwpc.png Graphic file (type png)
 
 <use pictures/png/mwpc.png>
-Package pdftex.def Info: pictures/png/mwpc.png used on input line 139.
+Package pdftex.def Info: pictures/png/mwpc.png used on input line 142.
 (pdftex.def)             Requested size: 247.92564pt x 143.53589pt.
- [27 <./pictures/png/mwpc.png>]
-<pictures/png/pidschematics.png, id=131, 750.805pt x 471.7625pt>
+ [33 <./pictures/png/mwpc.png>]
+<pictures/png/pidschematics.png, id=151, 750.805pt x 471.7625pt>
 File: pictures/png/pidschematics.png Graphic file (type png)
 
 <use pictures/png/pidschematics.png>
-Package pdftex.def Info: pictures/png/pidschematics.png used on input line 173.
+Package pdftex.def Info: pictures/png/pidschematics.png used on input line 178.
 
-(pdftex.def)             Requested size: 375.40158pt x 235.88066pt.
- [28]
-<pictures/png/banana.png, id=136, 357.4956pt x 213.4374pt>
+(pdftex.def)             Requested size: 412.94402pt x 259.47017pt.
+ [34]
+<pictures/png/banana.png, id=156, 357.4956pt x 213.4374pt>
 File: pictures/png/banana.png Graphic file (type png)
 
 <use pictures/png/banana.png>
-Package pdftex.def Info: pictures/png/banana.png used on input line 183.
-(pdftex.def)             Requested size: 285.99686pt x 170.75014pt.
- [29 <./pictures/png/pidschematics.png>]
-<pictures/png/taps.png, id=140, 292.09125pt x 248.93pt>
+Package pdftex.def Info: pictures/png/banana.png used on input line 188.
+(pdftex.def)             Requested size: 357.49472pt x 213.43686pt.
+ [35 <./pictures/png/pidschematics.png>] [36 <./pictures/png/banana.png>]
+<pictures/png/taps.png, id=164, 292.09125pt x 248.93pt>
 File: pictures/png/taps.png Graphic file (type png)
 
 <use pictures/png/taps.png>
-Package pdftex.def Info: pictures/png/taps.png used on input line 200.
-(pdftex.def)             Requested size: 408.92493pt x 348.4996pt.
- [30 <./pictures/png/banana.png>] [31 <./pictures/png/taps.png>]
-File: pictures/png/tiniso.png Graphic file (type png)
- <use pictures/png/tiniso.png>
-Package pdftex.def Info: pictures/png/tiniso.png used on input line 221.
-(pdftex.def)             Requested size: 297.1104pt x 250.53633pt.
- [32] [33]
-<pictures/png/cbelectronics.png, id=154, 429.605pt x 209.78375pt>
-File: pictures/png/cbelectronics.png Graphic file (type png)
+Package pdftex.def Info: pictures/png/taps.png used on input line 205.
+(pdftex.def)             Requested size: 438.13577pt x 373.39407pt.
 
-<use pictures/png/cbelectronics.png>
-Package pdftex.def Info: pictures/png/cbelectronics.png used on input line 261.
-
-(pdftex.def)             Requested size: 429.60394pt x 209.78322pt.
-
-Overfull \hbox (17.03899pt too wide) in paragraph at lines 261--262
+Overfull \hbox (25.57082pt too wide) in paragraph at lines 205--206
  [] 
  []
 
-[34] [35 <./pictures/png/cbelectronics.png>]) [36] [37]
+[37 <./pictures/png/taps.png>]
+File: pictures/png/tiniso.png Graphic file (type png)
+ <use pictures/png/tiniso.png>
+Package pdftex.def Info: pictures/png/tiniso.png used on input line 226.
+(pdftex.def)             Requested size: 297.1104pt x 250.53633pt.
+ [38] [39]
+<pictures/png/cbelectronics.png, id=174, 429.605pt x 209.78375pt>
+File: pictures/png/cbelectronics.png Graphic file (type png)
+
+<use pictures/png/cbelectronics.png>
+Package pdftex.def Info: pictures/png/cbelectronics.png used on input line 269.
+
+(pdftex.def)             Requested size: 429.60394pt x 209.78322pt.
+
+Overfull \hbox (17.03899pt too wide) in paragraph at lines 269--270
+ [] 
+ []
+
+[40] [41 <./pictures/png/cbelectronics.png>]) [42] [43]
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
 Chapter 4.
-[38
+[44
 
 
 
-] <pictures/png/cbcluster.png, id=171, 180.675pt x 154.5775pt>
+] <pictures/pdf/taggertime.pdf, id=191, 569.12625pt x 402.50375pt>
+File: pictures/pdf/taggertime.pdf Graphic file (type pdf)
+
+<use pictures/pdf/taggertime.pdf>
+Package pdftex.def Info: pictures/pdf/taggertime.pdf used on input line 23.
+(pdftex.def)             Requested size: 398.38567pt x 281.7507pt.
+ [45] [46 <./pictures/pdf/taggertime.pdf, page is rotated 90 degrees>]
+<pictures/png/cbcluster.png, id=243, 180.675pt x 154.5775pt>
 File: pictures/png/cbcluster.png Graphic file (type png)
 
 <use pictures/png/cbcluster.png>
-Package pdftex.def Info: pictures/png/cbcluster.png used on input line 37.
+Package pdftex.def Info: pictures/png/cbcluster.png used on input line 57.
 (pdftex.def)             Requested size: 99.37154pt x 85.01787pt.
- [39] [40 <./pictures/png/cbcluster.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 56.
+ [47] [48 <./pictures/png/cbcluster.png>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 56.
- [41]
-<pictures/png/cbtimewalk.png, id=182, 385.44pt x 199.74625pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 76.
+ [49]
+<pictures/png/cbtimewalk.png, id=253, 385.44pt x 199.74625pt>
 File: pictures/png/cbtimewalk.png Graphic file (type png)
 
 <use pictures/png/cbtimewalk.png>
-Package pdftex.def Info: pictures/png/cbtimewalk.png used on input line 85.
+Package pdftex.def Info: pictures/png/cbtimewalk.png used on input line 105.
 (pdftex.def)             Requested size: 211.99265pt x 109.86076pt.
- [42 <./pictures/png/cbtimewalk.png>]
-<pictures/png/pidphi.png, id=186, 449.68pt x 571.13374pt>
+ [50 <./pictures/png/cbtimewalk.png>]
+<pictures/png/pidphi.png, id=257, 449.68pt x 571.13374pt>
 File: pictures/png/pidphi.png Graphic file (type png)
 
 <use pictures/png/pidphi.png>
-Package pdftex.def Info: pictures/png/pidphi.png used on input line 101.
+Package pdftex.def Info: pictures/png/pidphi.png used on input line 121.
 (pdftex.def)             Requested size: 247.32475pt x 314.12453pt.
 
-<pictures/png/pidcali4.png, id=187, 698.61pt x 473.77pt>
+<pictures/png/pidcali4.png, id=258, 698.61pt x 473.77pt>
 File: pictures/png/pidcali4.png Graphic file (type png)
 
 <use pictures/png/pidcali4.png>
-Package pdftex.def Info: pictures/png/pidcali4.png used on input line 109.
+Package pdftex.def Info: pictures/png/pidcali4.png used on input line 129.
 (pdftex.def)             Requested size: 279.43904pt x 189.50464pt.
- [43 <./pictures/png/pidphi.png>]
-<pictures/png/bananacali.png, id=191, 464.73625pt x 285.065pt>
+ [51 <./pictures/png/pidphi.png>]
+<pictures/png/bananacali.png, id=262, 464.73625pt x 285.065pt>
 File: pictures/png/bananacali.png Graphic file (type png)
 
 <use pictures/png/bananacali.png>
-Package pdftex.def Info: pictures/png/bananacali.png used on input line 121.
+Package pdftex.def Info: pictures/png/bananacali.png used on input line 141.
 (pdftex.def)             Requested size: 278.84389pt x 171.04031pt.
- [44 <./pictures/png/pidcali4.png>]
-<pictures/png/bananagaus.png, id=195, 890.32625pt x 303.1325pt>
+ [52 <./pictures/png/pidcali4.png>]
+<pictures/png/bananagaus.png, id=267, 890.32625pt x 303.1325pt>
 File: pictures/png/bananagaus.png Graphic file (type png)
 
 <use pictures/png/bananagaus.png>
-Package pdftex.def Info: pictures/png/bananagaus.png used on input line 129.
+Package pdftex.def Info: pictures/png/bananagaus.png used on input line 149.
 (pdftex.def)             Requested size: 445.16203pt x 151.56587pt.
 
-Overfull \hbox (32.59708pt too wide) in paragraph at lines 129--130
+Overfull \hbox (32.59708pt too wide) in paragraph at lines 149--150
  [] 
  []
 
-[45 <./pictures/png/bananacali.png> <./pictures/png/bananagaus.png>]
-<pictures/png/pidtdcgaus.png, id=200, 538.01pt x 495.8525pt>
+[53 <./pictures/png/bananacali.png> <./pictures/png/bananagaus.png>]
+<pictures/png/pidtdcgaus.png, id=271, 538.01pt x 495.8525pt>
 File: pictures/png/pidtdcgaus.png Graphic file (type png)
 
 <use pictures/png/pidtdcgaus.png>
-Package pdftex.def Info: pictures/png/pidtdcgaus.png used on input line 145.
+Package pdftex.def Info: pictures/png/pidtdcgaus.png used on input line 165.
 (pdftex.def)             Requested size: 215.20018pt x 198.33748pt.
 
-<pictures/png/pidtdcgaus16.png, id=201, 538.01pt x 481.8pt>
+<pictures/png/pidtdcgaus16.png, id=272, 538.01pt x 481.8pt>
 File: pictures/png/pidtdcgaus16.png Graphic file (type png)
 
 <use pictures/png/pidtdcgaus16.png>
-Package pdftex.def Info: pictures/png/pidtdcgaus16.png used on input line 153.
+Package pdftex.def Info: pictures/png/pidtdcgaus16.png used on input line 173.
 (pdftex.def)             Requested size: 215.20018pt x 192.71658pt.
- [46 <./pictures/png/pidtdcgaus.png>]
-<pictures/png/pidtdcoffset.png, id=206, 536.0025pt x 320.19624pt>
+ [54 <./pictures/png/pidtdcgaus.png>]
+<pictures/png/pidtdcoffset.png, id=276, 536.0025pt x 320.19624pt>
 File: pictures/png/pidtdcoffset.png Graphic file (type png)
 
 <use pictures/png/pidtdcoffset.png>
-Package pdftex.def Info: pictures/png/pidtdcoffset.png used on input line 161.
+Package pdftex.def Info: pictures/png/pidtdcoffset.png used on input line 181.
 (pdftex.def)             Requested size: 294.80228pt x 176.10846pt.
- [47 <./pictures/png/pidtdcgaus16.png> <./pictures/png/pidtdcoffset.png>]) [48]
- (./thesis.bbl
+ [55 <./pictures/png/pidtdcgaus16.png> <./pictures/png/pidtdcoffset.png>]) [56]
+\openout2 = `chapter5.aux'.
+
+ (./chapter5.tex
+Chapter 5.
+<pictures/pdf/VertexZ_sn116.pdf, id=283, 569.12625pt x 402.50375pt>
+File: pictures/pdf/VertexZ_sn116.pdf Graphic file (type pdf)
+
+<use pictures/pdf/VertexZ_sn116.pdf>
+Package pdftex.def Info: pictures/pdf/VertexZ_sn116.pdf used on input line 9.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+<pictures/pdf/VertexZ_sn120.pdf, id=284, 569.12625pt x 402.50375pt>
+File: pictures/pdf/VertexZ_sn120.pdf Graphic file (type pdf)
+
+<use pictures/pdf/VertexZ_sn120.pdf>
+Package pdftex.def Info: pictures/pdf/VertexZ_sn120.pdf used on input line 10.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+<pictures/pdf/VertexZ_sn124.pdf, id=285, 569.12625pt x 402.50375pt>
+File: pictures/pdf/VertexZ_sn124.pdf Graphic file (type pdf)
+
+<use pictures/pdf/VertexZ_sn124.pdf>
+Package pdftex.def Info: pictures/pdf/VertexZ_sn124.pdf used on input line 11.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+ [57
+
+
+
+]
+Overfull \vbox (120.00145pt too high) has occurred while \output is active []
+
+
+[58 <./pictures/pdf/VertexZ_sn116.pdf, page is rotated 90 degrees> <./pictures/
+pdf/VertexZ_sn120.pdf, page is rotated 90 degrees> <./pictures/pdf/VertexZ_sn12
+4.pdf, page is rotated 90 degrees>] [59] [60]
+<pictures/pdf/2d_sn116_eg7.pdf, id=429, 569.12625pt x 402.50375pt>
+File: pictures/pdf/2d_sn116_eg7.pdf Graphic file (type pdf)
+
+<use pictures/pdf/2d_sn116_eg7.pdf>
+Package pdftex.def Info: pictures/pdf/2d_sn116_eg7.pdf used on input line 71.
+(pdftex.def)             Requested size: 369.92767pt x 261.62433pt.
+ [61 <./pictures/pdf/2d_sn116_eg7.pdf, page is rotated 90 degrees>]
+<pictures/png/fit_coherent.png, id=476, 288.07625pt x 252.945pt>
+File: pictures/png/fit_coherent.png Graphic file (type png)
+
+<use pictures/png/fit_coherent.png>
+Package pdftex.def Info: pictures/png/fit_coherent.png used on input line 83.
+(pdftex.def)             Requested size: 187.24733pt x 164.4123pt.
+
+<pictures/png/fit_incoherent.png, id=477, 288.07625pt x 252.945pt>
+File: pictures/png/fit_incoherent.png Graphic file (type png)
+
+<use pictures/png/fit_incoherent.png>
+Package pdftex.def Info: pictures/png/fit_incoherent.png used on input line 84.
+
+(pdftex.def)             Requested size: 187.24733pt x 164.4123pt.
+ [62 <./pictures/png/fit_coherent.png> <./pictures/png/fit_incoherent.png>]
+<pictures/pdf/tagging_efficiency_Sn116.pdf, id=481, 569.12625pt x 340.27126pt>
+File: pictures/pdf/tagging_efficiency_Sn116.pdf Graphic file (type pdf)
+
+<use pictures/pdf/tagging_efficiency_Sn116.pdf>
+Package pdftex.def Info: pictures/pdf/tagging_efficiency_Sn116.pdf used on inpu
+t line 108.
+(pdftex.def)             Requested size: 313.0204pt x 187.14977pt.
+
+<pictures/pdf/tagging_efficiency_Sn120.pdf, id=482, 569.12625pt x 340.27126pt>
+File: pictures/pdf/tagging_efficiency_Sn120.pdf Graphic file (type pdf)
+
+<use pictures/pdf/tagging_efficiency_Sn120.pdf>
+Package pdftex.def Info: pictures/pdf/tagging_efficiency_Sn120.pdf used on inpu
+t line 109.
+(pdftex.def)             Requested size: 313.0204pt x 187.14977pt.
+
+<pictures/pdf/tagging_efficiency_Sn124.pdf, id=483, 569.12625pt x 340.27126pt>
+File: pictures/pdf/tagging_efficiency_Sn124.pdf Graphic file (type pdf)
+
+<use pictures/pdf/tagging_efficiency_Sn124.pdf>
+Package pdftex.def Info: pictures/pdf/tagging_efficiency_Sn124.pdf used on inpu
+t line 110.
+(pdftex.def)             Requested size: 313.0204pt x 187.14977pt.
+ [63]
+Overfull \vbox (19.65082pt too high) has occurred while \output is active []
+
+
+[64 <./pictures/pdf/tagging_efficiency_Sn116.pdf, page is rotated 90 degrees> <
+./pictures/pdf/tagging_efficiency_Sn120.pdf, page is rotated 90 degrees> <./pic
+tures/pdf/tagging_efficiency_Sn124.pdf, page is rotated 90 degrees>]
+<pictures/pdf/pi0_efficiency_Sn116_Ebin6.pdf, id=620, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn116_Ebin6.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn116_Ebin6.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn116_Ebin6.pdf used on in
+put line 133.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn116_Ebin7.pdf, id=621, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn116_Ebin7.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn116_Ebin7.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn116_Ebin7.pdf used on in
+put line 134.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn116_Ebin8.pdf, id=622, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn116_Ebin8.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn116_Ebin8.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn116_Ebin8.pdf used on in
+put line 135.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn116_Ebin9.pdf, id=623, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn116_Ebin9.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn116_Ebin9.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn116_Ebin9.pdf used on in
+put line 136.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+ [65]
+Overfull \vbox (57.90012pt too high) has occurred while \output is active []
+
+
+[66 <./pictures/pdf/pi0_efficiency_Sn116_Ebin6.pdf, page is rotated 90 degrees>
+ <./pictures/pdf/pi0_efficiency_Sn116_Ebin7.pdf, page is rotated 90 degrees> <.
+/pictures/pdf/pi0_efficiency_Sn116_Ebin8.pdf, page is rotated 90 degrees> <./pi
+ctures/pdf/pi0_efficiency_Sn116_Ebin9.pdf, page is rotated 90 degrees>]
+<pictures/pdf/pi0_efficiency_Sn120_Ebin6.pdf, id=804, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn120_Ebin6.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn120_Ebin6.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn120_Ebin6.pdf used on in
+put line 144.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn120_Ebin7.pdf, id=805, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn120_Ebin7.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn120_Ebin7.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn120_Ebin7.pdf used on in
+put line 145.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn120_Ebin8.pdf, id=806, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn120_Ebin8.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn120_Ebin8.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn120_Ebin8.pdf used on in
+put line 146.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn120_Ebin9.pdf, id=807, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn120_Ebin9.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn120_Ebin9.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn120_Ebin9.pdf used on in
+put line 147.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+Overfull \vbox (57.90012pt too high) has occurred while \output is active []
+
+
+[67 <./pictures/pdf/pi0_efficiency_Sn120_Ebin6.pdf, page is rotated 90 degrees>
+ <./pictures/pdf/pi0_efficiency_Sn120_Ebin7.pdf, page is rotated 90 degrees> <.
+/pictures/pdf/pi0_efficiency_Sn120_Ebin8.pdf, page is rotated 90 degrees> <./pi
+ctures/pdf/pi0_efficiency_Sn120_Ebin9.pdf, page is rotated 90 degrees>]
+<pictures/pdf/pi0_efficiency_Sn124_Ebin6.pdf, id=984, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn124_Ebin6.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn124_Ebin6.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn124_Ebin6.pdf used on in
+put line 155.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn124_Ebin7.pdf, id=985, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn124_Ebin7.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn124_Ebin7.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn124_Ebin7.pdf used on in
+put line 156.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn124_Ebin8.pdf, id=986, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn124_Ebin8.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn124_Ebin8.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn124_Ebin8.pdf used on in
+put line 157.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+<pictures/pdf/pi0_efficiency_Sn124_Ebin9.pdf, id=987, 569.12625pt x 385.44pt>
+File: pictures/pdf/pi0_efficiency_Sn124_Ebin9.pdf Graphic file (type pdf)
+
+<use pictures/pdf/pi0_efficiency_Sn124_Ebin9.pdf>
+Package pdftex.def Info: pictures/pdf/pi0_efficiency_Sn124_Ebin9.pdf used on in
+put line 158.
+(pdftex.def)             Requested size: 227.64647pt x 154.17326pt.
+
+Overfull \vbox (57.90012pt too high) has occurred while \output is active []
+
+
+[68 <./pictures/pdf/pi0_efficiency_Sn124_Ebin6.pdf, page is rotated 90 degrees>
+ <./pictures/pdf/pi0_efficiency_Sn124_Ebin7.pdf, page is rotated 90 degrees> <.
+/pictures/pdf/pi0_efficiency_Sn124_Ebin8.pdf, page is rotated 90 degrees> <./pi
+ctures/pdf/pi0_efficiency_Sn124_Ebin9.pdf, page is rotated 90 degrees>]
+[69]) [70]
+\openout2 = `chapter6.aux'.
+
+ (./chapter6.tex
+Chapter 6.
+<pictures/pdf/sn116_cross_section_1.pdf, id=1171, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn116_cross_section_1.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn116_cross_section_1.pdf>
+Package pdftex.def Info: pictures/pdf/sn116_cross_section_1.pdf used on input l
+ine 13.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+<pictures/pdf/sn116_cross_section_2.pdf, id=1172, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn116_cross_section_2.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn116_cross_section_2.pdf>
+Package pdftex.def Info: pictures/pdf/sn116_cross_section_2.pdf used on input l
+ine 14.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+ [71
+
+
+
+]
+<pictures/pdf/sn120_cross_section_1.pdf, id=1176, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn120_cross_section_1.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn120_cross_section_1.pdf>
+Package pdftex.def Info: pictures/pdf/sn120_cross_section_1.pdf used on input l
+ine 19.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+<pictures/pdf/sn120_cross_section_2.pdf, id=1177, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn120_cross_section_2.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn120_cross_section_2.pdf>
+Package pdftex.def Info: pictures/pdf/sn120_cross_section_2.pdf used on input l
+ine 20.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+Overfull \hbox (233.71175pt too wide) in paragraph at lines 19--27
+[][] [] 
+ []
+
+[72 <./pictures/pdf/sn116_cross_section_1.pdf, page is rotated 90 degrees> <./p
+ictures/pdf/sn116_cross_section_2.pdf, page is rotated 90 degrees>]
+<pictures/pdf/sn124_cross_section_1.pdf, id=1267, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn124_cross_section_1.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn124_cross_section_1.pdf>
+Package pdftex.def Info: pictures/pdf/sn124_cross_section_1.pdf used on input l
+ine 31.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+
+<pictures/pdf/sn124_cross_section_2.pdf, id=1268, 569.12625pt x 402.50375pt>
+File: pictures/pdf/sn124_cross_section_2.pdf Graphic file (type pdf)
+
+<use pictures/pdf/sn124_cross_section_2.pdf>
+Package pdftex.def Info: pictures/pdf/sn124_cross_section_2.pdf used on input l
+ine 32.
+(pdftex.def)             Requested size: 313.0204pt x 221.37775pt.
+ [73 <./pictures/pdf/sn120_cross_section_1.pdf, page is rotated 90 degrees> <./
+pictures/pdf/sn120_cross_section_2.pdf, page is rotated 90 degrees>]
+
+LaTeX Warning: Reference `cross_ratio3' on page 74 undefined on input line 38.
+
+
+<pictures/pdf/cross_ratio_kamalov_Sn116_Sn120_Ebin8.pdf, id=1358, 569.12625pt x
+ 385.44pt>
+File: pictures/pdf/cross_ratio_kamalov_Sn116_Sn120_Ebin8.pdf Graphic file (type
+ pdf)
+ <use pictures/pdf/cross_ratio_kamalov_Sn116_Sn120_Ebin8.pdf>
+Package pdftex.def Info: pictures/pdf/cross_ratio_kamalov_Sn116_Sn120_Ebin8.pdf
+ used on input line 42.
+(pdftex.def)             Requested size: 313.0204pt x 211.99265pt.
+
+[74 <./pictures/pdf/sn124_cross_section_1.pdf, page is rotated 90 degrees> <./p
+ictures/pdf/sn124_cross_section_2.pdf, page is rotated 90 degrees>]
+<pictures/pdf/energy_resolution_sn116.pdf, id=1449, 569.12625pt x 402.50375pt>
+File: pictures/pdf/energy_resolution_sn116.pdf Graphic file (type pdf)
+
+<use pictures/pdf/energy_resolution_sn116.pdf>
+Package pdftex.def Info: pictures/pdf/energy_resolution_sn116.pdf used on input
+ line 52.
+(pdftex.def)             Requested size: 426.84364pt x 301.87706pt.
+
+Overfull \hbox (14.27869pt too wide) in paragraph at lines 52--53
+ [] 
+ []
+
+) [75 <./pictures/pdf/cross_ratio_kamalov_Sn116_Sn120_Ebin8.pdf, page is rotate
+d 90 degrees>] [76 <./pictures/pdf/energy_resolution_sn116.pdf, page is rotated
+ 90 degrees>] (./thesis.bbl
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
@@ -565,7 +883,7 @@ Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Underfull \hbox (badness 1867) in paragraph at lines 34--38
+Underfull \hbox (badness 1867) in paragraph at lines 38--42
 []\OT1/cmr/m/n/10.95 J. R. M. An-nand.  \OT1/cmr/m/it/10.95 Data Anal-y-sis wit
 hin an Ac-qu-Root Frame-work. nu-
  []
@@ -573,35 +891,36 @@ hin an Ac-qu-Root Frame-work. nu-
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no “ in font cmr10!
+[77
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--79
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 92--97
 []\OT1/cmr/m/n/10.95 J. Dudek.  \OT1/cmr/m/it/10.95 Me-son and baryon spec-tros
 copy from Lat-tice QCD\OT1/cmr/m/n/10.95 .
  []
 
 
-Overfull \hbox (24.55801pt too wide) in paragraph at lines 74--79
+Overfull \hbox (24.55801pt too wide) in paragraph at lines 92--97
 \OT1/cmr/m/n/10.95 http://irfu.cea.fr/Documentation/Conferences/webCALS12/Talks
 /March9/dudek.pdf,
  []
 
-[49
-
-
-] [50]) [51] (./thesis.aux (./title.aux) (./abstract.aux) (./chapter1.aux)
-(./chapter2.aux) (./chapter3.aux) (./chapter4.aux))
+[78] [79]) [80] (./thesis.aux (./title.aux) (./abstract.aux) (./chapter1.aux)
+(./chapter2.aux) (./chapter3.aux) (./chapter4.aux) (./chapter5.aux)
+(./chapter6.aux))
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3380 strings out of 495028
- 48452 string characters out of 6181497
- 109222 words of memory out of 5000000
- 6464 multiletter control sequences out of 15000+600000
- 11966 words of font info for 42 fonts, out of 8000000 for 9000
+ 3606 strings out of 495028
+ 55355 string characters out of 6181497
+ 110240 words of memory out of 5000000
+ 6644 multiletter control sequences out of 15000+600000
+ 12805 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 42i,11n,40p,1424b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,13n,40p,2238b,404s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -617,10 +936,10 @@ amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on thesis.pdf (54 pages, 2896160 bytes).
+Output written on thesis.pdf (83 pages, 3607288 bytes).
 PDF statistics:
- 278 PDF objects out of 1000 (max. 8388607)
- 174 compressed objects within 2 object streams
+ 1612 PDF objects out of 1728 (max. 8388607)
+ 742 compressed objects within 8 object streams
  0 named destinations out of 1000 (max. 500000)
- 126 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 281 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -24,7 +24,11 @@ S.~Abrahamyan and et~al.
 J.~Albert.
 \newblock {\em Test Measurements for the Crystal Ball Detector at MAMI, PhD
   thesis}.
-\newblock ?, 2003.
+\newblock 2003.
+
+\bibitem{alkhazov}
+G.D. Alkhazov, S.~L. Belostotsky, and A.~A. Vorobyov.
+\newblock {\em Phys. Rep. 42}, page~89, 1978.
 
 \bibitem{amsler}
 C.~Amsler and et~al.
@@ -40,6 +44,10 @@ J.~R.~M. Annand.
 S.~Schamand B.~Krusche.
 \newblock {\em Prog. Part. Nucl. Phys. 51, 399}, 2003.
 
+\bibitem{batty}
+C.~J. Batty and et~al.
+\newblock {\em Adv. Nucl. Phys. 19}, page~1, 1989.
+
 \bibitem{bertulani}
 C.~Bertulani.
 \newblock {\em Nuclear Physics in a Nutshell}.
@@ -50,9 +58,19 @@ J.~Bjorken and S.~Drell.
 \newblock {\em Relativistic Quantum Mechanics}.
 \newblock McGraw Hill, New York, 1964.
 
+\bibitem{babrown}
+B.~A. Brown.
+\newblock Neutron radii in nuclei and the neutron equation of state.
+\newblock {\em Phys. Rev. Lett 85 25}, 2000.
+
 \bibitem{root}
 R.~Brun.
 \newblock {\em Root manual, root.cern.ch}.
+
+\bibitem{carlson}
+J.~Carlson and R.~Schiavilla.
+\newblock Quantum monte carlo calculations of a = 9, 10 nuclei.
+\newblock {\em Rev. Mod. Phys. 70-3}, page 743, 1998.
 
 \bibitem{davidson}
 R.~Davidson.
@@ -60,7 +78,7 @@ R.~Davidson.
 
 \bibitem{devires}
 H.~de~Vires and et~al.
-\newblock {\em At. Nuc. Dat. Nuc. Dat. Tab. 60}, pages 177--285, 1995.
+\newblock {\em At. Nuc. Dat. Nuc. Dat. Tab. 36}, page 495, 1987.
 
 \bibitem{dehn}
 M.~Dehn and et~al.
@@ -81,9 +99,29 @@ J.~Dudek.
 A.~Starostin et~al.
 \newblock {\em Phys.Rev.C 64}, pages 55--205, 2001.
 
+\bibitem{dobrovolsky}
+A.~V.~Dobrovolsky et~al.
+\newblock {\em NPA}, page 766, 2006.
+
 \bibitem{audit}
 Audit et~al.
 \newblock {\em Nuc. Inst. Meth. A301}, pages 473--481, 1991.
+
+\bibitem{horovitz}
+C.~J.~Horovitz et. al.
+\newblock {\em Phys. Rev. C63}, page 025501, 2001.
+
+\bibitem{claire2}
+C.~Tarbert et. al.
+\newblock {\em Phys. Rev. Lett. 112}, page 242502, 2014.
+
+\bibitem{drechsel2}
+D.~Drechsel et. al.
+\newblock {\em Nuc. Phys. A660}, pages 423--438, 1999.
+
+\bibitem{skyrme}
+D.~Vautherin et. al.
+\newblock {\em Phys. Rev. C5}, page 626, 1972.
 
 \bibitem{fattoyev}
 F.~J.~Fattoyev et~al.
@@ -97,9 +135,30 @@ G.~Bruan et~al.
   experiments.
 \newblock {\em arXiv:hep-ex}, 1998.
 
+\bibitem{igo}
+G.~J.~Igo et. al.
+\newblock {\em Rev. Mod. Phys. 50}, page 523, 1978.
+
+\bibitem{alkhazov2}
+G.D.~Alkhazov et. al.
+\newblock {\em Phys.Atom.Nucl. 78}, pages 381--386, 2015.
+
 \bibitem{pda}
 J.~Beringer et~al.
 \newblock {\em The Review of Particle Physics, Phys. Rev. D86}, 2012.
+
+\bibitem{gogny}
+J.~Decharge et. al.
+\newblock {\em Phys. Rev. C21}, page 1568, 1980.
+
+\bibitem{pomorski}
+K.~Pomorski et. al.
+\newblock {\em Nuc. Phys. A624}, pages 349--369, 1997.
+
+\bibitem{liewen2}
+Lie-Wen~Chen et~al.
+\newblock {\em Phys. Rev. C72}.
+\newblock 2005.
 
 \bibitem{liewen}
 Lie-Wen~Chen et~al.
@@ -115,9 +174,30 @@ M.~Centelles et~al.
 M.~Oreglia et~al.
 \newblock {\em Phys. Rev. D. 25}, page~9, 1982.
 
+\bibitem{danielewicz}
+P.~Danielewicz et~al.
+\newblock {\em Nucl. Phys. A727}, page 233, 2003.
+
 \bibitem{arndt}
 R.~Arndt et~al.
 \newblock {\em Physical Review C 42, 1853}, 1990.
+
+\bibitem{pieper}
+S.~Pieper et. al.
+\newblock Quantum monte carlo calculations of a = 9, 10 nuclei.
+\newblock {\em Phys. Rev. C66}, page 044310, 2002.
+
+\bibitem{neumaier}
+S.~R.~Neumaier et~al.
+\newblock {\em Nucl.Phys. A712}, page 247, 2002.
+
+\bibitem{takaki}
+T.~Takaki et. al.
+\newblock {\em Nucl. Phys. A443}, pages 570--588, 1985.
+
+\bibitem{fricke}
+G.~Fricke and et~al.
+\newblock {\em At. Nuc. Dat. Nuc. Dat. Tab. 60}, pages 177--285, 1995.
 
 \bibitem{chew}
 F.~E.~Low G.~F.~Chew, M. L.~Goldberger and Y.~Nambu.
@@ -131,6 +211,10 @@ T.~Gesslerr.
 \bibitem{sjhall}
 S.J. Hall, G.J. Miller, R.~Beck, and P.~Jennewein.
 \newblock {\em Nucl. Instrum. Methods A 368}, page 698, 1996.
+
+\bibitem{iida}
+K.Iida and K.~Oyamatsu.
+\newblock {\em Phys. Rev. C69}, page 037301, 2004.
 
 \bibitem{knoll}
 G.F. Knoll.
@@ -146,6 +230,11 @@ B.~Lemmer.
 \newblock {\em Diploma thesis}.
 \newblock Universitaet, Giessen, 2007.
 
+\bibitem{leo}
+W.~R. Leo.
+\newblock {\em Techniques for Nuclear and Particle Physics Experiments}.
+\newblock Springer-Verlag, 1992.
+
 \bibitem{martin}
 B.~Martin and G.~Shaw.
 \newblock {\em Particle Physics}.
@@ -160,9 +249,18 @@ J.~McAndrew.
 J~C. McGeorge and J.~D.~Kellie et~al.
 \newblock {\em Eur. Phys. J. A, 37}, pages 129--137, 2008.
 
+\bibitem{meucci}
+A.~Meucci.
+\newblock {\em Relativistic Mean Field Theory of Nuclear Structure, Pavia}.
+\newblock 2000.
+
 \bibitem{duncan}
 D.~Middleton.
 \newblock {\em Mainz a2 tagger calibrations a2 internal report.}, 2011.
+
+\bibitem{miller}
+G.J. Miller and R.~O. Owens.
+\newblock {\em Nuc. Ins. and Meth.}, pages 390 257--266, 1997.
 
 \bibitem{nagl}
 V.~D.~A. Nagl and H.~Uberall.
@@ -173,9 +271,30 @@ V.~D.~A. Nagl and H.~Uberall.
 R.~Novotny.
 \newblock {\em IEEE Trans. Nucl. Sci. 38}, page~2, 1991.
 
+\bibitem{piek3}
+J.~Piekarewicz.
+\newblock {\em Phys. Rev. C73}, page 044325, 2006.
+
+\bibitem{piek4}
+J.~Piekarewicz.
+\newblock {\em Phys. Rev. C76}, page 031301, 2007.
+
+\bibitem{piek5}
+J.~Piekarewicz.
+\newblock {\em Phys. Rev. C76}, page 064310, 2007.
+
+\bibitem{piek2}
+J.~Piekarewicz.
+\newblock Private communication, 2015.
+
 \bibitem{piek}
 J.~Piekarewicz and S.~Pieper.
 \newblock {\em Nucl. Phys. A 778}, page~10, 2006.
+
+\bibitem{ring}
+P.~Ring and P.~Schuck.
+\newblock {\em The Nuclear Many-Body Problem}.
+\newblock Springer Verlag, Heidelberg, 1980.
 
 \bibitem{roca}
 X.~Roca-Maza, M.~Centelles, X.~Vinas, and M.~Warda.
@@ -189,6 +308,14 @@ M.~E. Roebig.
 \bibitem{lschmitt}
 L.~Schmitt.
 \newblock {\em IEEE Trans.Nucl.Sci.}, pages 51:438--444, 2004.
+
+\bibitem{sheng}
+Zongqiang Sheng and Zhongzhou Ren.
+\newblock {\em Eur. Phys. J. A46}, pages 241--247, 2010.
+
+\bibitem{isick}
+I.~Sick and J.~S. MacCarthy.
+\newblock {\em Nucl. Phys. A150}, page 631, 1980.
 
 \bibitem{claire}
 C.~M. Tarbet.

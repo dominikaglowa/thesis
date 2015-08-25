@@ -7,9 +7,12 @@ A level-1 auxiliary file: chapter1.aux
 A level-1 auxiliary file: chapter2.aux
 A level-1 auxiliary file: chapter3.aux
 A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: chapter6.aux
 The style file: plain.bst
 Database file #1: refs.bib
-Warning--I didn't find a database entry for "pike"
+Warning--entry type for "piek2" isn't style-file defined
+--line 293 of file refs.bib
 Warning--to sort, need author or key in Proposal
 Warning--to sort, need author, editor, or key in maid
 Warning--to sort, need author, editor, or key in said
@@ -22,9 +25,12 @@ Warning--empty publisher in maid
 Warning--empty year in maid
 Warning--empty author and editor in a2mami
 Warning--empty publisher in a2mami
+Warning--empty publisher in jalbert
+Warning--empty title in alkhazov
 Warning--empty title in amsler
 Warning--empty publisher in john
 Warning--empty title in krusche
+Warning--empty title in batty
 Warning--empty publisher in root
 Warning--empty year in root
 Warning--empty title in davidson
@@ -32,64 +38,86 @@ Warning--empty title in devires
 Warning--empty title in dehn
 Warning--empty title in drechsel
 Warning--empty title in starostin
+Warning--empty title in dobrovolsky
 Warning--empty title in audit
+Warning--empty title in horovitz
+Warning--empty title in claire2
+Warning--empty title in drechsel2
+Warning--empty title in skyrme
+Warning--empty title in igo
+Warning--empty title in alkhazov2
 Warning--empty title in pda
+Warning--empty title in gogny
+Warning--empty title in pomorski
+Warning--empty publisher in liewen2
 Warning--empty publisher in liewen
 Warning--empty title in centelles
 Warning--empty title in oreglia
+Warning--empty title in danielewicz
 Warning--empty title in arndt
+Warning--empty title in neumaier
+Warning--empty title in takaki
+Warning--empty title in fricke
 Warning--empty title in chew
 Warning--empty title in sjhall
+Warning--empty title in iida
 Warning--empty year in knoll
 Warning--empty publisher in krambrich
 Warning--empty year in krambrich
 Warning--empty title in mcgeorge
+Warning--empty publisher in meucci
 Warning--empty title in duncan
+Warning--empty title in miller
 Warning--empty title in novotny
+Warning--empty title in piek3
+Warning--empty title in piek4
+Warning--empty title in piek5
 Warning--empty title in piek
 Warning--empty title in roca
 Warning--empty title in lschmitt
+Warning--empty title in sheng
+Warning--empty title in isick
 Warning--empty title in marcu
 Warning--empty title in walker
-You've used 47 entries,
+You've used 77 entries,
             2118 wiz_defined-function locations,
-            688 strings with 7317 characters,
-and the built_in function-call counts, 12117 in all, are:
-= -- 1129
-> -- 397
-< -- 15
-+ -- 166
-- -- 118
-* -- 641
-:= -- 1948
-add.period$ -- 110
-call.type$ -- 47
-change.case$ -- 158
+            813 strings with 8955 characters,
+and the built_in function-call counts, 21594 in all, are:
+= -- 2083
+> -- 666
+< -- 39
++ -- 277
+- -- 198
+* -- 1110
+:= -- 3345
+add.period$ -- 177
+call.type$ -- 77
+change.case$ -- 262
 chr.to.int$ -- 0
-cite$ -- 88
-duplicate$ -- 654
-empty$ -- 1072
-format.name$ -- 118
-if$ -- 2639
+cite$ -- 143
+duplicate$ -- 1209
+empty$ -- 1832
+format.name$ -- 198
+if$ -- 4820
 int.to.chr$ -- 0
-int.to.str$ -- 47
-missing$ -- 63
-newline$ -- 207
-num.names$ -- 86
-pop$ -- 355
+int.to.str$ -- 77
+missing$ -- 96
+newline$ -- 334
+num.names$ -- 146
+pop$ -- 571
 preamble$ -- 1
-purify$ -- 153
+purify$ -- 253
 quote$ -- 0
-skip$ -- 455
+skip$ -- 933
 stack$ -- 0
-substring$ -- 496
-swap$ -- 176
-text.length$ -- 15
+substring$ -- 981
+swap$ -- 432
+text.length$ -- 39
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 148
-warning$ -- 41
-while$ -- 108
-width$ -- 49
-write$ -- 417
-(There were 42 warnings)
+type$ -- 260
+warning$ -- 66
+while$ -- 198
+width$ -- 79
+write$ -- 692
+(There were 67 warnings)
