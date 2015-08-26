@@ -35,7 +35,7 @@
 \end{center}
 \end{figure}
 
-\indent The calculations of the ratio of cross sections have been performed in order to investigate the changes in the nuclear structure of the isotopes without the systematic error bias. Figures \ref{cross_ratio1} to \ref{cross_ratio3} present the ratios of the targets cross sections compared with the theoretical predictions from the Kamalov's DREN calculations.
+\indent The calculations of the ratio of cross sections have been performed in order to investigate the changes in the nuclear structure of the isotopes without the systematic error bias. Figures \ref{cross_ratio1} to \ref{cross_ratio3} present the ratios of the targets cross sections compared with the theoretical predictions from the Kamalov's DREN calculations, using the FSUGold parameter sets. The details of different FSUGold models are summarized in the Table \ref{fsu_table}.
 
 \begin{figure}[H]
 \begin{center}
@@ -44,6 +44,32 @@
 \label{cross_ratio1}
 \end{center}
 \end{figure}
+
+\newcommand{\rastrech}[1]{\renewcommand{\arraystretch}{#1}}
+\begin{table}[ht]
+\rastrech{1.5}
+\centering
+\begin{tabular}{|c | c c c c c c c |}
+\hline\hline
+ & & &  FSU030 & & & &  \\
+\hline
+Isotope & $c_{p}$ (fm) &$b_{p}$ (fm) & $c_{n}$ (fm) & $b_{n}$ (fm) & $r_{p}$ (fm) & $r_{n}$ (fm) & $\Delta r$ (fm) \\
+$^{116}Sn$ & 5.479 & 0.434 & 5.458 & 0.529 & 4.541 & 4.663  & 0.122\\
+$^{120}Sn$ & 5.503 & 0.443 & 5.461 & 0.583 & 4.570 & 4.752  & 0.182\\
+$^{124}Sn$ & 5.563 & 0.432 & 5.581 & 0.570 & 4.598 & 4.814  & 0.216\\
+\hline\hline
+ & & &  FSU010 & & &  &\\
+\hline
+Isotope & $c_{p}$ (fm) &$b_{p}$ (fm) & $c_{n}$ (fm) & $b_{n}$ (fm) & $r_{p}$ (fm) & $r_{n}$ (fm) & $\Delta r$ (fm) \\
+$^{116}Sn$ & 5.464 & 0.435 & 5.484 & 0.531 & 4.530 & 4.685 & 0.155\\
+$^{120}Sn$ & 5.482 & 0.444 & 5.496 & 0.585 & 4.556 & 4.780 & 0.224\\
+$^{124}Sn$ & 5.541 & 0.433 & 5.622 & 0.572 & 4.584 & 4.846 & 0.262\\
+\hline\hline
+\end{tabular}
+\caption{The FSUGold parameters set used for the Kamalov's DREN calculations. Two different values for the paramenters are used and compared with the data: FSU030 ....; FSU010 ....  Explaing the parameters briefly and recall it in the text where you will have a more detailed informations (Formulas, what they are, what their change inplies. 
+!!!!IN CHAPTER 2 you say that you expect from the model a change in the isotopic chain of 0.05fm . From these values  you have 0.094 and 0.107. Change chapter 2 and have a label to here from there and viceversa. By the way, put the units!!! }
+\label{fsu_table}
+\end{table} 
 
 \indent The dependence of the energy resolution on $\theta$ for different targets and photon energies is shown in the figures below. Those data have been fitted with a third degree polynomial function wich was then used in the DREN calculations to reflect the effect of the energy resolution on the ratio of the cross sections predictions.
 

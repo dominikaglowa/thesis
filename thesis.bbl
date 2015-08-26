@@ -6,10 +6,6 @@
 \bibitem{maid}
 {\em The MAID Homepage, http://www.kph.uni-mainz.de/MAID}.
 
-\bibitem{Proposal}
-Proposal for an experiment: ‘neutron skin evolution in isotopes of tin and
-  calcium from coherent pion photoproduction’, 2009.
-
 \bibitem{a2mami}
 {\em A2 MAMI website, http://wwwa2.kph.uni-mainz.de}.
 \newblock 2015.
@@ -94,6 +90,11 @@ J.~Dudek.
 \newblock
   http://irfu.cea.fr/Documentation/Conferences/webCALS12/Talks/March9/dudek.pdf,
   2011.
+
+\bibitem{ericsson}
+T.~Ericsson and W.~Weise.
+\newblock {\em Pions and Nuclei}.
+\newblock 1988.
 
 \bibitem{starostin}
 A.~Starostin et~al.
@@ -225,6 +226,10 @@ G.F. Knoll.
 D.~Krambrich.
 \newblock {\em University of Mainz, PhD thesis}.
 
+\bibitem{lalazissis}
+G.~A. Lalazissis, J.~Konig, and P.~Ring.
+\newblock {\em Phys. Rev. C55}, page 540, 1997.
+
 \bibitem{lemmer}
 B.~Lemmer.
 \newblock {\em Diploma thesis}.
@@ -270,6 +275,14 @@ V.~D.~A. Nagl and H.~Uberall.
 \bibitem{novotny}
 R.~Novotny.
 \newblock {\em IEEE Trans. Nucl. Sci. 38}, page~2, 1991.
+
+\bibitem{piek6}
+J.~Piekarewicz.
+\newblock {\em Phys. Rev. C66}, page 034305, 2002.
+
+\bibitem{piek7}
+J.~Piekarewicz.
+\newblock {\em Phys. Rev. C69}, page 041302, 2004.
 
 \bibitem{piek3}
 J.~Piekarewicz.
@@ -321,6 +334,10 @@ I.~Sick and J.~S. MacCarthy.
 C.~M. Tarbet.
 \newblock {\em Coherent $\pi^{0}$ photoprodution on nuclei}.
 \newblock University of Edinburgh, 2007.
+
+\bibitem{todd}
+B.~G. Todd-Rutel and J.~Piekarewicz.
+\newblock {\em Phys. Rev. Lett. 95}, page 122501, 2005.
 
 \bibitem{trzcina}
 A.~Trzcinska.
